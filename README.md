@@ -23,8 +23,7 @@ http://lukapenger.eu
 <br/>
 Connect to your LPProjects LED Cube 8x8x8 with mobile device and makes awesome animations!<br/>
 
-### iOS Application
-<br/>
+### iOS Application:
 Compatible with iPhone 4, iPhone 4S, iPhone 5, iPhone 6, iPhone 6+, iPod touch, iPad. Requires iOS 7.0 or later.
 <br/>
 Available on: https://itunes.apple.com/us/app/led-cube-8x8x8-controller/id940731753
