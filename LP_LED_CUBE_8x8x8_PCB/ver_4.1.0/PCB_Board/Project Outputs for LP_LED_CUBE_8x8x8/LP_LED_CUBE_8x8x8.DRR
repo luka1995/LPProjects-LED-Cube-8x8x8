@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: LP_LED_CUBE_8x8x8.PcbDoc   17/12/14  09:03:09
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LP_LED_CUBE_8x8x8.TXT
+EIA File   : LP_LED_CUBE_8x8x8.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.254mm (10mil)          Round          93               521.00 mm (20.51 Inch)
+T2        0.508mm (20mil)          Round          8                75.72 mm (2.98 Inch)
+T3        0.762mm (30mil)          Round          12               235.46 mm (9.27 Inch)
+T4        0.8mm (31.496mil)        Round          2                2.54 mm (0.10 Inch)
+T5        0.9mm (35.433mil)        Round          98               484.37 mm (19.07 Inch)
+T6        0.965mm (37.992mil)      Round          160              652.78 mm (25.70 Inch)
+T7        1.1mm (43.307mil)        Round          2                3.81 mm (0.15 Inch)
+T8        1.27mm (50mil)           Round          1                0.00 mm (0.00 Inch)
+T9        3.2mm (125.984mil)       Round          4                290.96 mm (11.45 Inch)
+---------------------------------------------------------------------------
+Totals                                            380              2266.64 mm (89.24 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

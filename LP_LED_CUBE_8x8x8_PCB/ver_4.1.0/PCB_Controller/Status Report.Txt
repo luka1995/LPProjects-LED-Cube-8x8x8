@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 22:51:15 On 13.2.2014
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : PCB Document [LP_LED_CUBE_8x8x8.PcbDoc]
+   Generated File[LP_LED_CUBE_8x8x8.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 22:51:17 On 13.2.2014

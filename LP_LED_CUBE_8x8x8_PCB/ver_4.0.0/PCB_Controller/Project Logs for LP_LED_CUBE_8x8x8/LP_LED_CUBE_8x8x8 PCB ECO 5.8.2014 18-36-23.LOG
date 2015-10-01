@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=P5-1
+Removed Pin From Net: NetName=NetD7_1 Pin=P5-2
+Change Component Comment : Designator=P5 Old Comment=Power 3.3V New Comment=Power to board
+Change Component Designator: OldDesignator=P5 NewDesignator=P6
+Added Component: Designator=P5(DC Connector)
+Added Pin To Net: NetName=NetD7_1 Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=NetD7_1 Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Member To Class: ClassName=POWER Member=Component P6 Power to board

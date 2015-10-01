@@ -1,0 +1,16 @@
+.\obj\lp_led_cube_8x8x8_lpc176x.o: LP_LED_CUBE_8x8x8_LPC176X.c
+.\obj\lp_led_cube_8x8x8_lpc176x.o: C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H
+.\obj\lp_led_cube_8x8x8_lpc176x.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\obj\lp_led_cube_8x8x8_lpc176x.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\lp_led_cube_8x8x8_lpc176x.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\lp_led_cube_8x8x8_lpc176x.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\lp_led_cube_8x8x8_lpc176x.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\obj\lp_led_cube_8x8x8_lpc176x.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\lp_led_cube_8x8x8_lpc176x.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\obj\lp_led_cube_8x8x8_lpc176x.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\obj\lp_led_cube_8x8x8_lpc176x.o: .\Libraries\DELAY.h
+.\obj\lp_led_cube_8x8x8_lpc176x.o: .\Libraries\UART.h
+.\obj\lp_led_cube_8x8x8_lpc176x.o: .\Libraries\type.h
+.\obj\lp_led_cube_8x8x8_lpc176x.o: .\Libraries\LED_CUBE_8x8x8.h
+.\obj\lp_led_cube_8x8x8_lpc176x.o: .\Libraries\TLC59116.h
+.\obj\lp_led_cube_8x8x8_lpc176x.o: .\Libraries\I2C.h

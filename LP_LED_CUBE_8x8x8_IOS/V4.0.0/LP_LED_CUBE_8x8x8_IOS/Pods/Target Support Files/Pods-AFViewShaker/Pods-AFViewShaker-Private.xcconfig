@@ -1,0 +1,5 @@
+#include "Pods-AFViewShaker.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/AFViewShaker" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AFNetworking" "${PODS_ROOT}/Headers/Public/AFViewShaker" "${PODS_ROOT}/Headers/Public/CocoaAsyncSocket" "${PODS_ROOT}/Headers/Public/CocoaHTTPServer" "${PODS_ROOT}/Headers/Public/CocoaLumberjack" "${PODS_ROOT}/Headers/Public/MCSwipeTableViewCell" "${PODS_ROOT}/Headers/Public/NSData+Base64" "${PODS_ROOT}/Headers/Public/NSJSONSerialization-NSNullRemoval" "${PODS_ROOT}/Headers/Public/RMPickerViewController" "${PODS_ROOT}/Headers/Public/RNFrostedSidebar" "${PODS_ROOT}/Headers/Public/Reachability"
+OTHER_LDFLAGS = -ObjC
+PODS_ROOT = ${SRCROOT}

@@ -1,0 +1,13 @@
+--cpu Cortex-M3
+".\obj\lp_led_cube_8x8x8_lpc176x.o"
+".\obj\startup_lpc17xx.o"
+".\obj\system_lpc17xx.o"
+".\obj\delay.o"
+".\obj\i2c.o"
+".\obj\led_cube_8x8x8.o"
+".\obj\tlc59116.o"
+".\obj\uart.o"
+--strict --scatter ".\Obj\LP_LED_CUBE_8x8x8_LPC176X.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Lst\LP_LED_CUBE_8x8x8_LPC176X.map" -o .\Obj\LP_LED_CUBE_8x8x8_LPC176X.axf

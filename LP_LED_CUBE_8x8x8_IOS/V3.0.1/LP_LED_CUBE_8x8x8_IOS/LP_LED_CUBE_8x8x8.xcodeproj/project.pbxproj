@@ -1,0 +1,621 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0C56B3EB19549ADD00540572 /* LPNewEffectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C56B3EA19549ADD00540572 /* LPNewEffectViewController.m */; };
+		0C56B3ED19549B0F00540572 /* LPNewEffectViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0C56B3EC19549B0F00540572 /* LPNewEffectViewController_iPhone.xib */; };
+		0C56B3F019549C1100540572 /* LPAnimationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C56B3EF19549C1100540572 /* LPAnimationViewController.m */; };
+		0C56B3F219549C1C00540572 /* LPAnimationViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0C56B3F119549C1C00540572 /* LPAnimationViewController_iPhone.xib */; };
+		0C56B410195AD2C200540572 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C56B40F195AD2C200540572 /* SystemConfiguration.framework */; };
+		0C56B412195AD2D200540572 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C56B411195AD2D200540572 /* QuartzCore.framework */; };
+		0C56B414195B410300540572 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C56B413195B410300540572 /* CFNetwork.framework */; };
+		0C56B41A195C6E9B00540572 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C56B419195C6E9B00540572 /* CoreFoundation.framework */; };
+		0C56B41D195C8EFB00540572 /* LPAnimationsListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C56B41C195C8EFB00540572 /* LPAnimationsListViewController.m */; };
+		0C56B41F195C8F0A00540572 /* LPAnimationsListViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0C56B41E195C8F0A00540572 /* LPAnimationsListViewController_iPhone.xib */; };
+		0C79903A1948B27C0098D9BF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C7990391948B27C0098D9BF /* main.m */; };
+		0C79903F1948B27C0098D9BF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C79903E1948B27C0098D9BF /* Images.xcassets */; };
+		0C79905E1948B43F0098D9BF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C7990561948B43F0098D9BF /* AppDelegate.m */; };
+		0C79905F1948B43F0098D9BF /* LPSharedManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C7990581948B43F0098D9BF /* LPSharedManager.m */; };
+		0C79906B1948BDBB0098D9BF /* LPScanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C79906A1948BDBB0098D9BF /* LPScanViewController.m */; };
+		0C79906D1948BDEC0098D9BF /* LPScanViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0C79906C1948BDEC0098D9BF /* LPScanViewController_iPhone.xib */; };
+		0CFA1CDF195E072E00C717E3 /* LPCubeEffect.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CFA1CDE195E072E00C717E3 /* LPCubeEffect.m */; };
+		0CFA1CE2195E0CED00C717E3 /* LPAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CFA1CE1195E0CED00C717E3 /* LPAnimation.m */; };
+		0CFA1CE5195EA89700C717E3 /* LPCubeEffectCellView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0CFA1CE4195EA89700C717E3 /* LPCubeEffectCellView.xib */; };
+		0CFA1CE9195EB7F000C717E3 /* LPCubeEffectCellView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CFA1CE8195EB7F000C717E3 /* LPCubeEffectCellView.m */; };
+		0CFA1CF0195ECC4100C717E3 /* LPCollectionViewFlowSmallLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CFA1CEF195ECC4100C717E3 /* LPCollectionViewFlowSmallLayout.m */; };
+		0CFA1CF3195F7C0700C717E3 /* LPEditEffectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CFA1CF2195F7C0700C717E3 /* LPEditEffectViewController.m */; };
+		0CFA1CF5195F7C1400C717E3 /* LPEditEffectViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0CFA1CF4195F7C1400C717E3 /* LPEditEffectViewController_iPhone.xib */; };
+		0CFA1CF8195FEADA00C717E3 /* LPAnimationCellView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CFA1CF7195FEADA00C717E3 /* LPAnimationCellView.m */; };
+		0CFA1CFA195FEAE700C717E3 /* LPAnimationCellView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0CFA1CF9195FEAE700C717E3 /* LPAnimationCellView.xib */; };
+		0CFA1D0119602B3E00C717E3 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CFA1D0019602B3E00C717E3 /* OpenGLES.framework */; };
+		0CFA1D0319602C3D00C717E3 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CFA1D0219602C3D00C717E3 /* GLKit.framework */; };
+		0CFA1D05196076AB00C717E3 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 0CFA1D04196076AB00C717E3 /* Settings.bundle */; };
+		68D4F7B3876949FA9CA49FCC /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F75AFD09904B2396D4E39F /* libPods.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0C7990451948B27C0098D9BF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0C79902C1948B27C0098D9BF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0C7990331948B27C0098D9BF;
+			remoteInfo = LP_LED_CUBE_8x8x8;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0C56B3E919549ADD00540572 /* LPNewEffectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPNewEffectViewController.h; sourceTree = "<group>"; };
+		0C56B3EA19549ADD00540572 /* LPNewEffectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPNewEffectViewController.m; sourceTree = "<group>"; };
+		0C56B3EC19549B0F00540572 /* LPNewEffectViewController_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LPNewEffectViewController_iPhone.xib; sourceTree = "<group>"; };
+		0C56B3EE19549C1100540572 /* LPAnimationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPAnimationViewController.h; sourceTree = "<group>"; };
+		0C56B3EF19549C1100540572 /* LPAnimationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPAnimationViewController.m; sourceTree = "<group>"; };
+		0C56B3F119549C1C00540572 /* LPAnimationViewController_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LPAnimationViewController_iPhone.xib; sourceTree = "<group>"; };
+		0C56B40F195AD2C200540572 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		0C56B411195AD2D200540572 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		0C56B413195B410300540572 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		0C56B419195C6E9B00540572 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
+		0C56B41B195C8EFB00540572 /* LPAnimationsListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPAnimationsListViewController.h; sourceTree = "<group>"; };
+		0C56B41C195C8EFB00540572 /* LPAnimationsListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPAnimationsListViewController.m; sourceTree = "<group>"; };
+		0C56B41E195C8F0A00540572 /* LPAnimationsListViewController_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LPAnimationsListViewController_iPhone.xib; sourceTree = "<group>"; };
+		0C7990341948B27C0098D9BF /* LP_LED_CUBE_8x8x8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LP_LED_CUBE_8x8x8.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C7990381948B27C0098D9BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C7990391948B27C0098D9BF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0C79903E1948B27C0098D9BF /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		0C7990441948B27C0098D9BF /* LP_LED_CUBE_8x8x8Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LP_LED_CUBE_8x8x8Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C7990551948B43F0098D9BF /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		0C7990561948B43F0098D9BF /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		0C7990571948B43F0098D9BF /* LPSharedManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPSharedManager.h; sourceTree = "<group>"; };
+		0C7990581948B43F0098D9BF /* LPSharedManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPSharedManager.m; sourceTree = "<group>"; };
+		0C7990691948BDBB0098D9BF /* LPScanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPScanViewController.h; sourceTree = "<group>"; };
+		0C79906A1948BDBB0098D9BF /* LPScanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPScanViewController.m; sourceTree = "<group>"; };
+		0C79906C1948BDEC0098D9BF /* LPScanViewController_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LPScanViewController_iPhone.xib; sourceTree = "<group>"; };
+		0CFA1CDD195E072E00C717E3 /* LPCubeEffect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPCubeEffect.h; sourceTree = "<group>"; };
+		0CFA1CDE195E072E00C717E3 /* LPCubeEffect.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPCubeEffect.m; sourceTree = "<group>"; };
+		0CFA1CE0195E0CED00C717E3 /* LPAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPAnimation.h; sourceTree = "<group>"; };
+		0CFA1CE1195E0CED00C717E3 /* LPAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPAnimation.m; sourceTree = "<group>"; };
+		0CFA1CE4195EA89700C717E3 /* LPCubeEffectCellView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LPCubeEffectCellView.xib; sourceTree = "<group>"; };
+		0CFA1CE7195EB7F000C717E3 /* LPCubeEffectCellView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPCubeEffectCellView.h; sourceTree = "<group>"; };
+		0CFA1CE8195EB7F000C717E3 /* LPCubeEffectCellView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPCubeEffectCellView.m; sourceTree = "<group>"; };
+		0CFA1CEE195ECC4100C717E3 /* LPCollectionViewFlowSmallLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPCollectionViewFlowSmallLayout.h; sourceTree = "<group>"; };
+		0CFA1CEF195ECC4100C717E3 /* LPCollectionViewFlowSmallLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPCollectionViewFlowSmallLayout.m; sourceTree = "<group>"; };
+		0CFA1CF1195F7C0700C717E3 /* LPEditEffectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPEditEffectViewController.h; sourceTree = "<group>"; };
+		0CFA1CF2195F7C0700C717E3 /* LPEditEffectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPEditEffectViewController.m; sourceTree = "<group>"; };
+		0CFA1CF4195F7C1400C717E3 /* LPEditEffectViewController_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LPEditEffectViewController_iPhone.xib; sourceTree = "<group>"; };
+		0CFA1CF6195FEADA00C717E3 /* LPAnimationCellView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPAnimationCellView.h; sourceTree = "<group>"; };
+		0CFA1CF7195FEADA00C717E3 /* LPAnimationCellView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPAnimationCellView.m; sourceTree = "<group>"; };
+		0CFA1CF9195FEAE700C717E3 /* LPAnimationCellView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LPAnimationCellView.xib; sourceTree = "<group>"; };
+		0CFA1D0019602B3E00C717E3 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		0CFA1D0219602C3D00C717E3 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
+		0CFA1D04196076AB00C717E3 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		1271DF8653864E3111381172 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
+		330AF4A74FD8B02E02F449D9 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		84F75AFD09904B2396D4E39F /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0C7990311948B27C0098D9BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0CFA1D0319602C3D00C717E3 /* GLKit.framework in Frameworks */,
+				0CFA1D0119602B3E00C717E3 /* OpenGLES.framework in Frameworks */,
+				0C56B41A195C6E9B00540572 /* CoreFoundation.framework in Frameworks */,
+				0C56B414195B410300540572 /* CFNetwork.framework in Frameworks */,
+				0C56B412195AD2D200540572 /* QuartzCore.framework in Frameworks */,
+				0C56B410195AD2C200540572 /* SystemConfiguration.framework in Frameworks */,
+				68D4F7B3876949FA9CA49FCC /* libPods.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0C7990411948B27C0098D9BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0C79902B1948B27C0098D9BF = {
+			isa = PBXGroup;
+			children = (
+				0C7990361948B27C0098D9BF /* LP_LED_CUBE_8x8x8 */,
+				0C7990351948B27C0098D9BF /* Products */,
+				FFE997A594814B85B781AE9F /* Frameworks */,
+				0F3249D7E623B8690D4A1451 /* Pods */,
+			);
+			sourceTree = "<group>";
+		};
+		0C7990351948B27C0098D9BF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0C7990341948B27C0098D9BF /* LP_LED_CUBE_8x8x8.app */,
+				0C7990441948B27C0098D9BF /* LP_LED_CUBE_8x8x8Tests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0C7990361948B27C0098D9BF /* LP_LED_CUBE_8x8x8 */ = {
+			isa = PBXGroup;
+			children = (
+				0C79903E1948B27C0098D9BF /* Images.xcassets */,
+				0C7990541948B43F0098D9BF /* Application */,
+				0CFA1CDC195E06F300C717E3 /* Objects */,
+				0C7990591948B43F0098D9BF /* Classes */,
+				0C79905D1948B43F0098D9BF /* Views */,
+				0C7990371948B27C0098D9BF /* Supporting Files */,
+			);
+			path = LP_LED_CUBE_8x8x8;
+			sourceTree = "<group>";
+		};
+		0C7990371948B27C0098D9BF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0C7990381948B27C0098D9BF /* Info.plist */,
+				0C7990391948B27C0098D9BF /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0C7990541948B43F0098D9BF /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				0CFA1D04196076AB00C717E3 /* Settings.bundle */,
+				0C7990551948B43F0098D9BF /* AppDelegate.h */,
+				0C7990561948B43F0098D9BF /* AppDelegate.m */,
+				0C7990571948B43F0098D9BF /* LPSharedManager.h */,
+				0C7990581948B43F0098D9BF /* LPSharedManager.m */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		0C7990591948B43F0098D9BF /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				0CFA1CE6195EB7E200C717E3 /* Cells */,
+				0C7990691948BDBB0098D9BF /* LPScanViewController.h */,
+				0C79906A1948BDBB0098D9BF /* LPScanViewController.m */,
+				0C56B3E919549ADD00540572 /* LPNewEffectViewController.h */,
+				0C56B3EA19549ADD00540572 /* LPNewEffectViewController.m */,
+				0CFA1CF1195F7C0700C717E3 /* LPEditEffectViewController.h */,
+				0CFA1CF2195F7C0700C717E3 /* LPEditEffectViewController.m */,
+				0C56B3EE19549C1100540572 /* LPAnimationViewController.h */,
+				0C56B3EF19549C1100540572 /* LPAnimationViewController.m */,
+				0C56B41B195C8EFB00540572 /* LPAnimationsListViewController.h */,
+				0C56B41C195C8EFB00540572 /* LPAnimationsListViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		0C79905D1948B43F0098D9BF /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0CFA1CE3195EA87C00C717E3 /* Cells */,
+				0C79906C1948BDEC0098D9BF /* LPScanViewController_iPhone.xib */,
+				0C56B3EC19549B0F00540572 /* LPNewEffectViewController_iPhone.xib */,
+				0CFA1CF4195F7C1400C717E3 /* LPEditEffectViewController_iPhone.xib */,
+				0C56B3F119549C1C00540572 /* LPAnimationViewController_iPhone.xib */,
+				0C56B41E195C8F0A00540572 /* LPAnimationsListViewController_iPhone.xib */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		0CFA1CDC195E06F300C717E3 /* Objects */ = {
+			isa = PBXGroup;
+			children = (
+				0CFA1CDD195E072E00C717E3 /* LPCubeEffect.h */,
+				0CFA1CDE195E072E00C717E3 /* LPCubeEffect.m */,
+				0CFA1CE0195E0CED00C717E3 /* LPAnimation.h */,
+				0CFA1CE1195E0CED00C717E3 /* LPAnimation.m */,
+			);
+			path = Objects;
+			sourceTree = "<group>";
+		};
+		0CFA1CE3195EA87C00C717E3 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				0CFA1CE4195EA89700C717E3 /* LPCubeEffectCellView.xib */,
+				0CFA1CF9195FEAE700C717E3 /* LPAnimationCellView.xib */,
+			);
+			name = Cells;
+			sourceTree = "<group>";
+		};
+		0CFA1CE6195EB7E200C717E3 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				0CFA1CEE195ECC4100C717E3 /* LPCollectionViewFlowSmallLayout.h */,
+				0CFA1CEF195ECC4100C717E3 /* LPCollectionViewFlowSmallLayout.m */,
+				0CFA1CE7195EB7F000C717E3 /* LPCubeEffectCellView.h */,
+				0CFA1CE8195EB7F000C717E3 /* LPCubeEffectCellView.m */,
+				0CFA1CF6195FEADA00C717E3 /* LPAnimationCellView.h */,
+				0CFA1CF7195FEADA00C717E3 /* LPAnimationCellView.m */,
+			);
+			name = Cells;
+			sourceTree = "<group>";
+		};
+		0F3249D7E623B8690D4A1451 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1271DF8653864E3111381172 /* Pods.debug.xcconfig */,
+				330AF4A74FD8B02E02F449D9 /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		FFE997A594814B85B781AE9F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0CFA1D0219602C3D00C717E3 /* GLKit.framework */,
+				0CFA1D0019602B3E00C717E3 /* OpenGLES.framework */,
+				0C56B419195C6E9B00540572 /* CoreFoundation.framework */,
+				0C56B413195B410300540572 /* CFNetwork.framework */,
+				0C56B411195AD2D200540572 /* QuartzCore.framework */,
+				0C56B40F195AD2C200540572 /* SystemConfiguration.framework */,
+				84F75AFD09904B2396D4E39F /* libPods.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0C7990331948B27C0098D9BF /* LP_LED_CUBE_8x8x8 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0C79904E1948B27C0098D9BF /* Build configuration list for PBXNativeTarget "LP_LED_CUBE_8x8x8" */;
+			buildPhases = (
+				C8439E2ACF214DBD97BE8BD4 /* Check Pods Manifest.lock */,
+				0C7990301948B27C0098D9BF /* Sources */,
+				0C7990311948B27C0098D9BF /* Frameworks */,
+				0C7990321948B27C0098D9BF /* Resources */,
+				91BE44483EE44027BA32C531 /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LP_LED_CUBE_8x8x8;
+			productName = LP_LED_CUBE_8x8x8;
+			productReference = 0C7990341948B27C0098D9BF /* LP_LED_CUBE_8x8x8.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0C7990431948B27C0098D9BF /* LP_LED_CUBE_8x8x8Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0C7990511948B27C0098D9BF /* Build configuration list for PBXNativeTarget "LP_LED_CUBE_8x8x8Tests" */;
+			buildPhases = (
+				0C7990401948B27C0098D9BF /* Sources */,
+				0C7990411948B27C0098D9BF /* Frameworks */,
+				0C7990421948B27C0098D9BF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0C7990461948B27C0098D9BF /* PBXTargetDependency */,
+			);
+			name = LP_LED_CUBE_8x8x8Tests;
+			productName = LP_LED_CUBE_8x8x8Tests;
+			productReference = 0C7990441948B27C0098D9BF /* LP_LED_CUBE_8x8x8Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0C79902C1948B27C0098D9BF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+				ORGANIZATIONNAME = "Luka Penger";
+				TargetAttributes = {
+					0C7990331948B27C0098D9BF = {
+						CreatedOnToolsVersion = 6.0;
+						DevelopmentTeam = VD448M8BPE;
+					};
+					0C7990431948B27C0098D9BF = {
+						CreatedOnToolsVersion = 6.0;
+						TestTargetID = 0C7990331948B27C0098D9BF;
+					};
+				};
+			};
+			buildConfigurationList = 0C79902F1948B27C0098D9BF /* Build configuration list for PBXProject "LP_LED_CUBE_8x8x8" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 0C79902B1948B27C0098D9BF;
+			productRefGroup = 0C7990351948B27C0098D9BF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0C7990331948B27C0098D9BF /* LP_LED_CUBE_8x8x8 */,
+				0C7990431948B27C0098D9BF /* LP_LED_CUBE_8x8x8Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0C7990321948B27C0098D9BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C79903F1948B27C0098D9BF /* Images.xcassets in Resources */,
+				0C56B3ED19549B0F00540572 /* LPNewEffectViewController_iPhone.xib in Resources */,
+				0CFA1CE5195EA89700C717E3 /* LPCubeEffectCellView.xib in Resources */,
+				0C56B3F219549C1C00540572 /* LPAnimationViewController_iPhone.xib in Resources */,
+				0C56B41F195C8F0A00540572 /* LPAnimationsListViewController_iPhone.xib in Resources */,
+				0C79906D1948BDEC0098D9BF /* LPScanViewController_iPhone.xib in Resources */,
+				0CFA1CFA195FEAE700C717E3 /* LPAnimationCellView.xib in Resources */,
+				0CFA1CF5195F7C1400C717E3 /* LPEditEffectViewController_iPhone.xib in Resources */,
+				0CFA1D05196076AB00C717E3 /* Settings.bundle in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0C7990421948B27C0098D9BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		91BE44483EE44027BA32C531 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C8439E2ACF214DBD97BE8BD4 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0C7990301948B27C0098D9BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C56B3F019549C1100540572 /* LPAnimationViewController.m in Sources */,
+				0C56B3EB19549ADD00540572 /* LPNewEffectViewController.m in Sources */,
+				0C56B41D195C8EFB00540572 /* LPAnimationsListViewController.m in Sources */,
+				0C79905E1948B43F0098D9BF /* AppDelegate.m in Sources */,
+				0CFA1CF0195ECC4100C717E3 /* LPCollectionViewFlowSmallLayout.m in Sources */,
+				0CFA1CF8195FEADA00C717E3 /* LPAnimationCellView.m in Sources */,
+				0CFA1CE9195EB7F000C717E3 /* LPCubeEffectCellView.m in Sources */,
+				0CFA1CE2195E0CED00C717E3 /* LPAnimation.m in Sources */,
+				0C79903A1948B27C0098D9BF /* main.m in Sources */,
+				0CFA1CF3195F7C0700C717E3 /* LPEditEffectViewController.m in Sources */,
+				0C79906B1948BDBB0098D9BF /* LPScanViewController.m in Sources */,
+				0CFA1CDF195E072E00C717E3 /* LPCubeEffect.m in Sources */,
+				0C79905F1948B43F0098D9BF /* LPSharedManager.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0C7990401948B27C0098D9BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0C7990461948B27C0098D9BF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0C7990331948B27C0098D9BF /* LP_LED_CUBE_8x8x8 */;
+			targetProxy = 0C7990451948B27C0098D9BF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0C79904C1948B27C0098D9BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				METAL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0C79904D1948B27C0098D9BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				METAL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0C79904F1948B27C0098D9BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1271DF8653864E3111381172 /* Pods.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = LP_LED_CUBE_8x8x8/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		0C7990501948B27C0098D9BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 330AF4A74FD8B02E02F449D9 /* Pods.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = LP_LED_CUBE_8x8x8/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		0C7990521948B27C0098D9BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/LP_LED_CUBE_8x8x8.app/LP_LED_CUBE_8x8x8";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = LP_LED_CUBE_8x8x8Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				METAL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+			};
+			name = Debug;
+		};
+		0C7990531948B27C0098D9BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/LP_LED_CUBE_8x8x8.app/LP_LED_CUBE_8x8x8";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = LP_LED_CUBE_8x8x8Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				METAL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0C79902F1948B27C0098D9BF /* Build configuration list for PBXProject "LP_LED_CUBE_8x8x8" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0C79904C1948B27C0098D9BF /* Debug */,
+				0C79904D1948B27C0098D9BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0C79904E1948B27C0098D9BF /* Build configuration list for PBXNativeTarget "LP_LED_CUBE_8x8x8" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0C79904F1948B27C0098D9BF /* Debug */,
+				0C7990501948B27C0098D9BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0C7990511948B27C0098D9BF /* Build configuration list for PBXNativeTarget "LP_LED_CUBE_8x8x8Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0C7990521948B27C0098D9BF /* Debug */,
+				0C7990531948B27C0098D9BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0C79902C1948B27C0098D9BF /* Project object */;
+}

@@ -1,0 +1,4 @@
+Record=SheetSymbol|SourceDocument=LP_LED_CUBE_8x8x8.SchDoc|Designator=LED ROWS|SchDesignator=LED ROWS|FileName=LED_ROWS.SchDoc|SymbolType=Normal|RawFileName=LED_ROWS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=LP_LED_CUBE_8x8x8.SchDoc|Designator=LED SCH|SchDesignator=LED SCH|FileName=LED.SchDoc|SymbolType=Normal|RawFileName=LED.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=LP_LED_CUBE_8x8x8.SchDoc|Designator=POWER SCH|SchDesignator=POWER SCH|FileName=POWER.SchDoc|SymbolType=Normal|RawFileName=POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=LP_LED_CUBE_8x8x8.SchDoc

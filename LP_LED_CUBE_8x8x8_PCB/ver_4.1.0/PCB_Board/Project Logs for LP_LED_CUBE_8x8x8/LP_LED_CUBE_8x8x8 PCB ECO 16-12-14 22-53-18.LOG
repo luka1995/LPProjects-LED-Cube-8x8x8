@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=L1 Old Footprint=Inductor New Footprint=SMD Inductor 12x12mm
+Change Component Footprint: Designator=D1 Old Footprint=SMB New Footprint=DIODE SMC 6x7mm
+Change Component Comment : Designator=C27 Old Comment=0.47uF New Comment=100nF
+Change Component Comment : Designator=R90 Old Comment=0R New Comment=180k
+Change Component Comment : Designator=L1 Old Comment=1.5uH New Comment=100uH
+Change Component Comment : Designator=U1 Old Comment=74HCT574 New Comment=74HC574N
+Change Component Comment : Designator=U2 Old Comment=74HCT574 New Comment=74HC574N
+Change Component Comment : Designator=U3 Old Comment=74HCT574 New Comment=74HC574N
+Change Component Comment : Designator=U4 Old Comment=74HCT574 New Comment=74HC574N
+Change Component Comment : Designator=U5 Old Comment=74HCT574 New Comment=74HC574N
+Change Component Comment : Designator=U6 Old Comment=74HCT574 New Comment=74HC574N
+Change Component Comment : Designator=U7 Old Comment=74HCT574 New Comment=74HC574N
+Change Component Comment : Designator=U8 Old Comment=74HCT574 New Comment=74HC574N
+Change Component Comment : Designator=R91 Old Comment=226k New Comment=220k
+Change Component Comment : Designator=D1 Old Comment=Schottky New Comment=Sk54
+Added Room: Name=LED
+Added Room: Name=LED_ROWS
+Added Room: Name=POWER

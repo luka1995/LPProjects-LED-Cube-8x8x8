@@ -1,0 +1,30 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: LP_LED_CUBE_8x8x8.PcbDoc   16.3.2014  18:01:23
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LP_LED_CUBE_8x8x8.TXT
+EIA File   : LP_LED_CUBE_8x8x8.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          Round          152              32.79 Inch (832.95 mm)
+T2        20mil (0.508mm)          Round          16               9.65 Inch (245.08 mm)
+T3        30mil (0.762mm)          Round          9                3.87 Inch (98.27 mm)
+T4        31.5mil (0.8001mm)       Round          12               3.95 Inch (100.33 mm)
+T5        35mil (0.889mm)          Round          10               0.91 Inch (23.16 mm)
+T6        35.4mil (0.89916mm)      Round          76               15.79 Inch (401.06 mm)
+T7        40mil (1.016mm)          Round          6                2.33 Inch (59.13 mm)
+T8        42.9mil (1.08966mm)      Round          9                0.90 Inch (22.94 mm)
+T9        50mil (1.27mm)           Round          3                2.65 Inch (67.40 mm)
+T10       59.1mil (1.50114mm)      Round          2                0.30 Inch (7.50 mm)
+T11       62mil (1.5748mm)         Round          2                0.65 Inch (16.51 mm)
+T12       90mil (2.286mm)          Round          2                0.50 Inch (12.70 mm)
+T13       102.4mil (2.60096mm)     Round          4                12.41 Inch (315.21 mm)
+T14       105mil (2.667mm)         Round          3                0.46 Inch (11.69 mm)
+T15       128.3mil (3.25882mm)     Round          2                0.98 Inch (24.99 mm)
+T16       130mil (3.302mm)         Round          2                0.45 Inch (11.43 mm)
+---------------------------------------------------------------------------
+Totals                                            310              88.60 Inch (2250.35 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

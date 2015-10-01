@@ -1,0 +1,119 @@
+Removed Pin From Net: NetName=LED2 Pin=U1-26
+Removed Pin From Net: NetName=LED1 Pin=U1-27
+Removed Pin From Net: NetName=USB D+ Pin=U1-29
+Removed Pin From Net: NetName=USB D- Pin=U1-30
+Removed Pin From Net: NetName=USB LED Pin=U1-32
+Removed Pin From Net: NetName=NetR9_2 Pin=U1-34
+Removed Pin From Net: NetName=LAYER3 Pin=U1-49
+Removed Pin From Net: NetName=LAYER2 Pin=U1-50
+Removed Pin From Net: NetName=LAYER1 Pin=U1-51
+Removed Pin From Net: NetName=LAYER4 Pin=U1-52
+Removed Pin From Net: NetName=LAYER6 Pin=U1-56
+Removed Pin From Net: NetName=LAYER5 Pin=U1-57
+Removed Pin From Net: NetName=F-WP Pin=U1-58
+Removed Pin From Net: NetName=F-RES Pin=U1-59
+Removed Pin From Net: NetName=F-SI Pin=U1-60
+Removed Pin From Net: NetName=F-SO Pin=U1-61
+Removed Pin From Net: NetName=F-SCK Pin=U1-62
+Removed Pin From Net: NetName=F-CS Pin=U1-63
+Removed Pin From Net: NetName=LAYER8 Pin=U1-64
+Removed Pin From Net: NetName=LAYER7 Pin=U1-65
+Removed Pin From Net: NetName=CLK7 Pin=U1-66
+Removed Pin From Net: NetName=CLK8 Pin=U1-67
+Removed Pin From Net: NetName=CLK5 Pin=U1-68
+Removed Pin From Net: NetName=CLK6 Pin=U1-69
+Removed Pin From Net: NetName=CLK3 Pin=U1-70
+Removed Pin From Net: NetName=CLK4 Pin=U1-73
+Removed Pin From Net: NetName=CLK1 Pin=U1-74
+Removed Pin From Net: NetName=CLK2 Pin=U1-75
+Removed Pin From Net: NetName=COL7 Pin=U1-76
+Removed Pin From Net: NetName=COL8 Pin=U1-77
+Removed Pin From Net: NetName=COL5 Pin=U1-78
+Removed Pin From Net: NetName=COL6 Pin=U1-79
+Removed Pin From Net: NetName=COL3 Pin=U1-80
+Removed Pin From Net: NetName=COL4 Pin=U1-81
+Removed Pin From Net: NetName=COL1 Pin=U1-82
+Removed Pin From Net: NetName=COL2 Pin=U1-85
+Removed Pin From Net: NetName=E-MDIO Pin=U1-86
+Removed Pin From Net: NetName=E-MDC Pin=U1-87
+Removed Pin From Net: NetName=E-REF-CLK Pin=U1-88
+Removed Pin From Net: NetName=E-RX-ER Pin=U1-89
+Removed Pin From Net: NetName=E-RXD1 Pin=U1-90
+Removed Pin From Net: NetName=E-RXD0 Pin=U1-91
+Removed Pin From Net: NetName=E-CRS Pin=U1-92
+Removed Pin From Net: NetName=E-TX-EN Pin=U1-93
+Removed Pin From Net: NetName=E-TXD1 Pin=U1-94
+Removed Pin From Net: NetName=E-TXD0 Pin=U1-95
+Removed Pin From Net: NetName=U0_TXD Pin=U1-98
+Removed Pin From Net: NetName=U0_RXD Pin=U1-99
+Change Component Comment : Designator=U1 Old Comment=LPC1769FBD100 New Comment=LPC1768FBD100
+Change Component Designator: OldDesignator=J1 NewDesignator=P1
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P5
+Change Component Designator: OldDesignator=P4 NewDesignator=P6
+Change Component Designator: OldDesignator=P5 NewDesignator=P7
+Change Component Designator: OldDesignator=P6 NewDesignator=P8
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=P4
+Change Component Library : Designator=U3 Old Library=LukaLIBRARY.SchLib New Library=NXP LPC1768.IntLib
+Added Component: Designator=U1(SOT407-1_N)
+Added Pin To Net: NetName=LED2 Pin=U1-26
+Added Pin To Net: NetName=LED1 Pin=U1-27
+Added Pin To Net: NetName=USB D+ Pin=U1-29
+Added Pin To Net: NetName=USB D- Pin=U1-30
+Added Pin To Net: NetName=USB LED Pin=U1-32
+Added Pin To Net: NetName=NetR9_2 Pin=U1-34
+Added Pin To Net: NetName=LAYER3 Pin=U1-49
+Added Pin To Net: NetName=LAYER2 Pin=U1-50
+Added Pin To Net: NetName=LAYER1 Pin=U1-51
+Added Pin To Net: NetName=LAYER4 Pin=U1-52
+Added Pin To Net: NetName=LAYER6 Pin=U1-56
+Added Pin To Net: NetName=LAYER5 Pin=U1-57
+Added Pin To Net: NetName=F-WP Pin=U1-58
+Added Pin To Net: NetName=F-RES Pin=U1-59
+Added Pin To Net: NetName=F-SI Pin=U1-60
+Added Pin To Net: NetName=F-SO Pin=U1-61
+Added Pin To Net: NetName=F-SCK Pin=U1-62
+Added Pin To Net: NetName=F-CS Pin=U1-63
+Added Pin To Net: NetName=LAYER8 Pin=U1-64
+Added Pin To Net: NetName=LAYER7 Pin=U1-65
+Added Pin To Net: NetName=CLK7 Pin=U1-66
+Added Pin To Net: NetName=CLK8 Pin=U1-67
+Added Pin To Net: NetName=CLK5 Pin=U1-68
+Added Pin To Net: NetName=CLK6 Pin=U1-69
+Added Pin To Net: NetName=CLK3 Pin=U1-70
+Added Pin To Net: NetName=CLK4 Pin=U1-73
+Added Pin To Net: NetName=CLK1 Pin=U1-74
+Added Pin To Net: NetName=CLK2 Pin=U1-75
+Added Pin To Net: NetName=COL7 Pin=U1-76
+Added Pin To Net: NetName=COL8 Pin=U1-77
+Added Pin To Net: NetName=COL5 Pin=U1-78
+Added Pin To Net: NetName=COL6 Pin=U1-79
+Added Pin To Net: NetName=COL3 Pin=U1-80
+Added Pin To Net: NetName=COL4 Pin=U1-81
+Added Pin To Net: NetName=COL1 Pin=U1-82
+Added Pin To Net: NetName=COL2 Pin=U1-85
+Added Pin To Net: NetName=E-MDIO Pin=U1-86
+Added Pin To Net: NetName=E-MDC Pin=U1-87
+Added Pin To Net: NetName=E-REF-CLK Pin=U1-88
+Added Pin To Net: NetName=E-RX-ER Pin=U1-89
+Added Pin To Net: NetName=E-RXD1 Pin=U1-90
+Added Pin To Net: NetName=E-RXD0 Pin=U1-91
+Added Pin To Net: NetName=E-CRS Pin=U1-92
+Added Pin To Net: NetName=E-TX-EN Pin=U1-93
+Added Pin To Net: NetName=E-TXD1 Pin=U1-94
+Added Pin To Net: NetName=E-TXD0 Pin=U1-95
+Added Pin To Net: NetName=U0_TXD Pin=U1-98
+Added Pin To Net: NetName=U0_RXD Pin=U1-99
+Change Net Name : Old Net Name=NetP2_2 New Net Name=NetP3_2
+Change Net Name : Old Net Name=NetP2_3 New Net Name=NetP3_3
+Change Net Name : Old Net Name=NetP5_1 New Net Name=NetP7_1
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetP4_8
+Change Net Name : Old Net Name=NetR24_1 New Net Name=NetP4_5
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetP4_12
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetP4_14
+Change Net Name : Old Net Name=NetR27_2 New Net Name=NetP4_10
+Change Net Name : Old Net Name=NetR28_2 New Net Name=NetP4_9
+Added Member To Class: ClassName=CPU Member=Component U4 AT45DB321E

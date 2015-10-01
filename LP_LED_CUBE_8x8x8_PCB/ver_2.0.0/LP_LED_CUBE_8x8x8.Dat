@@ -1,0 +1,54 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~LP_LED_CUBE_8x8x8.PrjPcb|ReportField=ProjectFullPath~V:\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_PCB\ver_2.0.0\LP_LED_CUBE_8x8x8.PrjPcb|ReportField=Title~Bill of Materials For Project [LP_LED_CUBE_8x8x8.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~188|ReportField=ReportTime~12:02:44|ReportField=ReportDate~19.8.2014|ReportField=ReportDateTime~19.8.2014 12:02:44|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Title~LED Cube 8x8x8|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~19.8.2014|ReportField=CurrentTime~12:02:43|ReportField=Date~|ReportField=DocumentFullPathAndName~V:\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_PCB\ver_2.0.0\LP_LED_CUBE_8x8x8.SchDoc|ReportField=DocumentName~LP_LED_CUBE_8x8x8.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~13.8.2014|ReportField=Organization~|ReportField=ProjectName~LP_LED_CUBE_8x8x8.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=DataSourceFileName~LP_LED_CUBE_8x8x8.PrjPcb|ReportField=DataSourceFullPath~V:\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_PCB\ver_2.0.0\LP_LED_CUBE_8x8x8.PrjPcb
+Battery|Multicell Battery|BT1|1
+100n|Capacitor|C1, C2, C3, C4, C9, C10, C11, C15, C18, C20, C21, C22, C23, C24, C25|15
+22p|Capacitor|C5, C6, C7, C8|4
+18p|Capacitor|C12, C13|2
+220uF|Capacitor|C14, C17|2
+0.47uF|Capacitor|C16, C19|2
+100n|Capacitor|C26|1
+USB LED|Typical INFRARED GaAs LED|D1|1
+LED1|Typical INFRARED GaAs LED|D2|1
+LED2|Typical INFRARED GaAs LED|D3|1
+LED4|Typical INFRARED GaAs LED|D4|1
+LED5|Typical INFRARED GaAs LED|D5|1
+D Schottky|Schottky Diode|D6|1
+Schottky|Schottky Diode|D7|1
+POWER LED|Typical INFRARED GaAs LED|D8|1
+RS232|Receptacle Assembly, 9 Position, Right Angle|J1|1
+Inductor|Inductor|L1, L2, L3, L4|4
+1.5uH|Magnetic-Core Inductor|L5|1
+JTAG Connector ULINK|JTAG Connector|P1|1
+USB B|USB Connector|P2|1
+Header 8X2|Header, 8-Pin, Dual row|P3, P5, P6, P7|4
+Header 8|Header, 8-Pin|P4|1
+DC Connector|DC Power Connector|P8|1
+NPN|NPN Bipolar Transistor|Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8|8
+10k|Resistor|R1, R5, R6, R7, R8, R9, R10, R93, R109|9
+NO|Resistor|R2|1
+2k2|Resistor|R3, R4, R110, R111, R112, R113, R114|7
+1k|Resistor|R11|1
+470R|Resistor|R12, R13, R14, R15, R16, R98, R105, R106|8
+50R|Resistor|R17|1
+1k5|Resistor|R18|1
+33R|Resistor|R19, R20|2
+1k|Resistor|R21, R29, R39, R40, R41, R42, R43, R47|8
+100R|Resistor|R22, R23, R24, R25, R26, R27, R28, R30, R31, R32, R33, R34, R35, R36, R37, R38, R44, R45, R46, R48, R49, R50, R51, R52, R53, R54, R55, R56, R57, R58, R59, R60, R61, R62, R63, R64, R65, R66, R67, R68, R69, R70, R71, R72, R73, R74, R75, R76, R77, R78, R79, R80, R81, R82, R83, R84, R85, R86, R87, R88, R89, R90, R91, R92|64
+0R|Resistor|R94|1
+226k|Resistor|R95|1
+49.9k|Resistor|R96|1
+100k|Resistor|R97|1
+75R|Resistor|R99, R104, R107, R108|4
+50R|Resistor|R100, R101, R102, R103|4
+4k7|Resistor|R115|1
+FW Update|Switch|S1|1
+LPC1768FBD100|32-bit ARM Cortex-M3 microcontroller; up to 512 kB flash and 64 kB SRAM with Ethernet, USB 2.0 Host/Device/OTG, CAN|U1|1
+MAX2232|Dual 232 +3V3|U2|1
+AT45DB321D|SPI Flash 32MB|U3|1
+PCA9555|I2C I/O Ports|U4, U5, U6, U7|4
+TPS56528|Step-Down Converter 5A 4.5V-18V|U8|1
+RJ45 Ethernet|Ethernet Connector|U9|1
+DP83848C|Ethernet PHY|U10|1
+Jumper|Jumper Wire|W1, W2|2
+32.768KHz|Crystal Oscillator|Y1|1
+12MHz|Crystal Oscillator|Y2|1
+XTAL 50MHz||Y3|1

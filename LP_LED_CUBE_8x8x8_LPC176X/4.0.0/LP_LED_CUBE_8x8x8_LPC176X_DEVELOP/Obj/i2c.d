@@ -1,0 +1,9 @@
+.\obj\i2c.o: Libraries\I2C.c
+.\obj\i2c.o: Libraries\I2C.h
+.\obj\i2c.o: C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h
+.\obj\i2c.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\obj\i2c.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\i2c.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\i2c.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\i2c.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\obj\i2c.o: Libraries\type.h

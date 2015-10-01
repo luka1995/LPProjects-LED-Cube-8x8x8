@@ -1,0 +1,20 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: Z:\Users\lukapenger\Desktop\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_PCB\ver_4.1.0\PCB_Board\Gerbers\cam.drl
+Format: 4.3
+Units: Metric (mm.)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.2540		93
+ 2 		0.5080		8
+ 3 		0.7620		12
+ 4 		0.8000		2
+ 5 		0.9000		98
+ 6 		0.9650		160
+ 7 		1.1000		2
+ 8 		1.2700		1
+ 9 		3.2000		4

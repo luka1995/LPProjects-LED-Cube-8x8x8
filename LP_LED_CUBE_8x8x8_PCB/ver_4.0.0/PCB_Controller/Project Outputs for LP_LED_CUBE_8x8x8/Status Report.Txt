@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LP_LED_CUBE_8x8x8.PrjPcb]
+   Generated File[LP_LED_CUBE_8x8x8.TXT]
+   Generated File[LP_LED_CUBE_8x8x8.DRL]
+   Generated File[LP_LED_CUBE_8x8x8.LDP]
+   Generated File[LP_LED_CUBE_8x8x8.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 21:10:46 On 10/12/14

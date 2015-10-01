@@ -1,0 +1,28 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\Luka\Desktop\LP_LED_CUBE_8x8x8_PCB\ver_1.0.0\Gerbers\cam.drl
+Format: 4.3
+Units: Metric (mm.)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.2540		73
+ 2 		0.3810		27
+ 3 		0.5080		3
+ 4 		0.7620		12
+ 5 		0.8000		8
+ 6 		0.8890		10
+ 7 		0.9000		84
+ 8 		1.0160		4
+ 9 		1.0900		9
+ 10 		1.2700		1
+ 11 		1.5000		2
+ 12 		1.5750		2
+ 13 		2.2860		2
+ 14 		2.6000		4
+ 15 		2.6670		3
+ 16 		3.2600		2
+ 17 		3.3020		2

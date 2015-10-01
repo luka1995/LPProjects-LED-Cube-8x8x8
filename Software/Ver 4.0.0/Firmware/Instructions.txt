@@ -1,0 +1,33 @@
+LPProjects LED Cube 8x8x8 Controller Firmware - Instructions
+
+Version: 4.0.0
+
+==================================================================
+
+Changes in this version:
+-	This is release version.
+
+==================================================================
+
+Hardware configuration/requirements:
+-	A USB cable "Type B" to power the board and to access the USB Bootloader.
+
+How to run Bootloader:
+	1.	Connect USB cable “Type B” to Controller and Computer.
+	2.	Hold the Firmware-Update/Reset button.
+	3.	Connect the power to Controller.
+	4.	Release the Firmware-Update/Reset button.
+	
+	5.	On the Computer you will see new MSC drive
+	6.	Open the new MSC drive showing in “My Computer” (Windows workstation).
+	7.	Delete the default “firmware.bin” file.
+	8.	Copy the new binary (.bin) file on the drive.
+	9.	Remove power supply from Controller.
+	10.	Connect the power to Controller again.
+
+	Now you have a new version of firmware loaded on the Controller.
+
+==================================================================
+
+Luka Penger 2014
+http://lukapenger.eu

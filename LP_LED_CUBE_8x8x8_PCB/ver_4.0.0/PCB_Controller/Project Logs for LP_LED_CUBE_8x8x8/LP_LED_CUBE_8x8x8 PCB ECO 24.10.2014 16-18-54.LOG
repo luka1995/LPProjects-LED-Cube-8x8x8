@@ -1,0 +1,6 @@
+Change Component Comment : Designator=U2 Old Comment=MAX2232 New Comment=TRS3232
+Added Pin To Net: NetName=E-CRS Pin=U1-92
+Added Room: Name=CPU
+Added Room: Name=ETH
+Added Room: Name=LED
+Added Room: Name=POWER

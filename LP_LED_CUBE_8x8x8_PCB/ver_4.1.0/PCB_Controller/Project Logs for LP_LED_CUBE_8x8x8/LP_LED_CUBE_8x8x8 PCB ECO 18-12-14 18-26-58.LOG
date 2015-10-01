@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=D6 Old Footprint=SMB New Footprint=DO-214AC (SMA)
+Change Component Footprint: Designator=D7 Old Footprint=SMB New Footprint=DO-214AC (SMA)
+Change Component Comment : Designator=D6 Old Comment=D Schottky New Comment=1N5819
+Change Component Comment : Designator=D7 Old Comment=Schottky New Comment=1N5819
+Change Component Comment : Designator=D9 Old Comment=SS14 New Comment=1N5819
+Added Member To Class: ClassName=CPU Member=Component U3 AT45DB321E
+Added Member To Class: ClassName=ETH Member=Component U4 DP83848C

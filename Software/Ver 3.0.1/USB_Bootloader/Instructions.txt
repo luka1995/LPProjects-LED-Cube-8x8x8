@@ -1,0 +1,29 @@
+LPProjects LED Cube 8x8x8 Controller USB Bootloader - Instructions
+
+Version: 4.0.0
+
+==================================================================
+
+Hardware configuration/requirements:
+-	Connect JTAG to 5x2 pin connector.
+
+How to program .hex to Controlller:
+
+-	You may create a µVision3 project for Flash download of a HEX file as described below:
+
+-	Create a µVision project file with the menu command Project — New Project....
+
+-	Select the microcontroller for your project from the Device Database, but do not copy any Startup Code to this project.
+
+-	In the dialog Project — Options for Target — Output enter the HEX file name as Name of Executable.
+
+-	Setup the download utility as described under Configure Flash Menu.
+
+-	Flash Download Button
+
+-	When using the Flash — Download command, µVision is programming the specified HEX file into the Flash ROM device.
+
+==================================================================
+
+Luka Penger 2014
+http://lukapenger.eu

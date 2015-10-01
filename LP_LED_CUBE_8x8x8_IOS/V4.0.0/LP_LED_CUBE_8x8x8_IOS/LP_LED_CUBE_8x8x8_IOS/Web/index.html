@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>%%TITLE%%</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <table class="table_data">
+            <tr>
+                <td width="10%" class="table_data_header">%%FILE_COUNT_HEADER%%</td>
+                <td class="table_data_header">%%FILE_NAME_HEADER%%</td>
+                <td width="10%" class="table_data_header">%%FILE_SIZE_HEADER%%</td>
+                <td width="10%" class="table_data_header">%%FILE_EFFECTS_COUNT_HEADER%%</td>
+                <td width="10%" class="table_data_header">%%FILE_DELETE_HEADER%%</td>
+                </tr>
+            %%ANIMATIONS_LIST%%
+            </table>
+        <br>
+        <table class="table_data">
+            <tr>
+                <td class="table_data_header">%%UPLOAD_FILE_HEADER%%</td>
+            </tr>
+            <form action="index.html" method="POST" enctype="multipart/form-data" accept-charset="utf-8"><input type='hidden' name='UPLOAD_FILE' value='lol'/>
+            <tr>
+                <td align="center" class="table_data_row">
+                    <input name="File" type="file" accept=".ani">
+                    <input type="button" value="%%UPLOAD_FILE_BUTTON%%" OnClick="this.form.submit()">
+                </td>
+            </tr>
+            </form>
+            </tr>
+            </table>
+        <br>
+        <center>
+            %%COPYRIGHT%%
+        </center>
+    </body>
+</html>

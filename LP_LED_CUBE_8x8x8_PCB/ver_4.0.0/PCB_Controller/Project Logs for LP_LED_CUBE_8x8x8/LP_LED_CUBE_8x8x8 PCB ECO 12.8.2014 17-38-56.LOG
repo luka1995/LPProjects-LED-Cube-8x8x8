@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LAYER1 Pin=U1-50
+Removed Pin From Net: NetName=LAYER2 Pin=U1-51
+Added Pin To Net: NetName=LAYER2 Pin=U1-50
+Added Pin To Net: NetName=LAYER1 Pin=U1-51

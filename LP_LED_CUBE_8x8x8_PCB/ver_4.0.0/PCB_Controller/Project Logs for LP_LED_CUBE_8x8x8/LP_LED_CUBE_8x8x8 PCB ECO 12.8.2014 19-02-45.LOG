@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC21_1 Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=VCC Pin=U6-3
+Removed Member From Class: ClassName=POWER Member=U6
+Added Component: Designator=U7(SOT223_N)
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=VCC Pin=U7-2
+Added Pin To Net: NetName=NetC21_1 Pin=U7-3
+Added Pin To Net: NetName=VCC Pin=U7-4
+Added Member To Class: ClassName=POWER Member=Component U7 LM1117 3.3V

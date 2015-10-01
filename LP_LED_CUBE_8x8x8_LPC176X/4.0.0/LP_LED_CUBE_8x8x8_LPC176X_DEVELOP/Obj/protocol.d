@@ -1,0 +1,11 @@
+.\obj\protocol.o: PROTOCOL.c
+.\obj\protocol.o: PROTOCOL.h
+.\obj\protocol.o: C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H
+.\obj\protocol.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\obj\protocol.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\protocol.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\protocol.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\protocol.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\obj\protocol.o: .\Libraries\type.h
+.\obj\protocol.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\obj\protocol.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h

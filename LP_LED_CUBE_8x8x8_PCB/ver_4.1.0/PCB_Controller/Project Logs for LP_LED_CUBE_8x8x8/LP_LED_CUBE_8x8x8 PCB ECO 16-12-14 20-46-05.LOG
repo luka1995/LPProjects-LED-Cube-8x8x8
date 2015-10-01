@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=U7-1
+Removed Pin From Net: NetName=3V3 Pin=U7-2
+Removed Pin From Net: NetName=NetC21_1 Pin=U7-3
+Removed Pin From Net: NetName=3V3 Pin=U7-4
+Removed Member From Class: ClassName=POWER Member=U7
+Added Component: Designator=C?(1608[0603])
+Added Component: Designator=D?(DO-214AC (SMA))
+Added Component: Designator=L?(SDR0805-101KL)
+Added Component: Designator=U?(SOIC8)
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=3V3 Pin=L?-2
+Added Pin To Net: NetName=3V3 Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=NetC21_1 Pin=U?-7
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=D?-2
+Added Pin To Net: NetName=NetC?_1 Pin=L?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-8
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-1
+Added Net: Name=NetC?_2
+Added Member To Class: ClassName=POWER Member=Component C? 10n
+Added Member To Class: ClassName=POWER Member=Component D? SS14
+Added Member To Class: ClassName=POWER Member=Component L? 100uH
+Added Member To Class: ClassName=POWER Member=Component U? LM2671 - 3.3V

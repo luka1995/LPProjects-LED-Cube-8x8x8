@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetD7_1 Pin=P5-1
+Added Component: Designator=W1(HDR1X2)
+Added Pin To Net: NetName=NetD7_1 Pin=W1-2
+Added Pin To Net: NetName=NetP5_1 Pin=P5-1
+Added Pin To Net: NetName=NetP5_1 Pin=W1-1
+Added Net: Name=NetP5_1
+Added Member To Class: ClassName=POWER Member=Component P5 DC Connector
+Added Member To Class: ClassName=POWER Member=Component W1 Jumper

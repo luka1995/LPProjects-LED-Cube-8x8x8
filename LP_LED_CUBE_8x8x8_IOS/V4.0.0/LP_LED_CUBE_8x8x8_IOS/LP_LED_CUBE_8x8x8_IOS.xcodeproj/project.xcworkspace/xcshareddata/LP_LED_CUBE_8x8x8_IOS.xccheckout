@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9BB74200-3953-4D67-85D2-8E12E09F4228</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LP_LED_CUBE_8x8x8_IOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1036DE894047CCCA68195E395D225E5DDD59925F</key>
+		<string>bitbucket.org:luka1995/lp-led-cube-8x8x8-project.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LP_LED_CUBE_8x8x8_IOS/V4.0.0/LP_LED_CUBE_8x8x8_IOS/LP_LED_CUBE_8x8x8_IOS.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1036DE894047CCCA68195E395D225E5DDD59925F</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>bitbucket.org:luka1995/lp-led-cube-8x8x8-project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1036DE894047CCCA68195E395D225E5DDD59925F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1036DE894047CCCA68195E395D225E5DDD59925F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>lp-led-cube-8x8x8-project</string>
+		</dict>
+	</array>
+</dict>
+</plist>

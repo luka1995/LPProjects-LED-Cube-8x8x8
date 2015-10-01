@@ -1,0 +1,21 @@
+c:\users\lukapenger\documents\visual studio 2013\Projects\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\bin\Debug\V400_DEVELOPER_TEST.exe.config
+c:\users\lukapenger\documents\visual studio 2013\Projects\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\bin\Debug\V400_DEVELOPER_TEST.exe
+c:\users\lukapenger\documents\visual studio 2013\Projects\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\bin\Debug\V400_DEVELOPER_TEST.pdb
+c:\users\lukapenger\documents\visual studio 2013\Projects\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\obj\Debug\V400_DEVELOPER_TEST.csprojResolveAssemblyReference.cache
+c:\users\lukapenger\documents\visual studio 2013\Projects\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\obj\Debug\V400_DEVELOPER_TEST.Form1.resources
+c:\users\lukapenger\documents\visual studio 2013\Projects\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\obj\Debug\V400_DEVELOPER_TEST.Properties.Resources.resources
+c:\users\lukapenger\documents\visual studio 2013\Projects\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\obj\Debug\V400_DEVELOPER_TEST.csproj.GenerateResource.Cache
+c:\users\lukapenger\documents\visual studio 2013\Projects\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\obj\Debug\V400_DEVELOPER_TEST.exe
+c:\users\lukapenger\documents\visual studio 2013\Projects\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\obj\Debug\V400_DEVELOPER_TEST.pdb
+Y:\Desktop\lp-led-cube-8x8x8-project\VISUAL\V4.0.0\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\bin\Debug\V400_DEVELOPER_TEST.exe.config
+Y:\Desktop\lp-led-cube-8x8x8-project\VISUAL\V4.0.0\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\obj\Debug\V400_DEVELOPER_TEST.exe
+Y:\Desktop\lp-led-cube-8x8x8-project\VISUAL\V4.0.0\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\obj\Debug\V400_DEVELOPER_TEST.pdb
+Y:\Desktop\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\V4.0.0\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\bin\Debug\V400_DEVELOPER_TEST.exe.config
+Y:\Desktop\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\V4.0.0\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\obj\Debug\V400_DEVELOPER_TEST.exe
+Y:\Desktop\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\V4.0.0\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\obj\Debug\V400_DEVELOPER_TEST.pdb
+Y:\Desktop\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\V4.0.0\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\bin\Debug\V400_DEVELOPER_TEST.exe
+Y:\Desktop\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\V4.0.0\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\bin\Debug\V400_DEVELOPER_TEST.pdb
+Y:\Desktop\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\V4.0.0\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\obj\Debug\V400_DEVELOPER_TEST.csprojResolveAssemblyReference.cache
+Y:\Desktop\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\V4.0.0\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\obj\Debug\V400_DEVELOPER_TEST.Form1.resources
+Y:\Desktop\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\V4.0.0\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\obj\Debug\V400_DEVELOPER_TEST.Properties.Resources.resources
+Y:\Desktop\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\V4.0.0\V400_DEVELOPER_TEST\V400_DEVELOPER_TEST\obj\Debug\V400_DEVELOPER_TEST.csproj.GenerateResource.Cache

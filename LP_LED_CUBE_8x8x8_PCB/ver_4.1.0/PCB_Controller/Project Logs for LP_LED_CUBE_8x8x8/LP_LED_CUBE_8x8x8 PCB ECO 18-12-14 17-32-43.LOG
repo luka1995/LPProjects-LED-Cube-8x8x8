@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=TDO/SW0 Pin=U3-1
+Removed Pin From Net: NetName=TDI Pin=U3-2
+Removed Pin From Net: NetName=TMS Pin=U3-3
+Removed Pin From Net: NetName=TRST Pin=U3-4
+Removed Pin From Net: NetName=TCK Pin=U3-5
+Removed Pin From Net: NetName=NetC9_1 Pin=U3-10
+Removed Pin From Net: NetName=GND Pin=U3-11
+Removed Pin From Net: NetName=NetC9_1 Pin=U3-12
+Removed Pin From Net: NetName=RSTOUT Pin=U3-14
+Removed Pin From Net: NetName=GND Pin=U3-15
+Removed Pin From Net: NetName=NetC5_2 Pin=U3-16
+Removed Pin From Net: NetName=RESET Pin=U3-17
+Removed Pin From Net: NetName=NetC6_2 Pin=U3-18
+Removed Pin From Net: NetName=NetBT1_1 Pin=U3-19
+Removed Pin From Net: NetName=NetC7_2 Pin=U3-22
+Removed Pin From Net: NetName=NetC8_2 Pin=U3-23
+Removed Pin From Net: NetName=NetC9_1 Pin=U3-28
+Removed Pin From Net: NetName=GND Pin=U3-31
+Removed Pin From Net: NetName=GND Pin=U3-41
+Removed Pin From Net: NetName=NetC9_1 Pin=U3-42
+Removed Pin From Net: NetName=NetC9_1 Pin=U3-54
+Removed Pin From Net: NetName=GND Pin=U3-55
+Removed Pin From Net: NetName=NetC9_1 Pin=U3-71
+Removed Pin From Net: NetName=GND Pin=U3-72
+Removed Pin From Net: NetName=GND Pin=U3-83
+Removed Pin From Net: NetName=NetC9_1 Pin=U3-84
+Removed Pin From Net: NetName=NetC9_1 Pin=U3-96
+Removed Pin From Net: NetName=GND Pin=U3-97
+Removed Pin From Net: NetName=RTCK Pin=U3-100
+Removed Member From Class: ClassName=POWER Member=P6
+Removed Member From Class: ClassName=CPU Member=P8
+Removed Member From Class: ClassName=ETH Member=P8
+Change Component Comment : Designator=U1 Old Comment=LPC1769FBD100 New Comment=LPC176XFBD100
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Added Pin To Net: NetName=TDO/SW0 Pin=U1-1
+Added Pin To Net: NetName=TDI Pin=U1-2
+Added Pin To Net: NetName=TMS Pin=U1-3
+Added Pin To Net: NetName=TRST Pin=U1-4
+Added Pin To Net: NetName=TCK Pin=U1-5
+Added Pin To Net: NetName=NetC9_1 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=NetC9_1 Pin=U1-12
+Added Pin To Net: NetName=RSTOUT Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=NetC5_2 Pin=U1-16
+Added Pin To Net: NetName=RESET Pin=U1-17
+Added Pin To Net: NetName=NetC6_2 Pin=U1-18
+Added Pin To Net: NetName=NetBT1_1 Pin=U1-19
+Added Pin To Net: NetName=NetC7_2 Pin=U1-22
+Added Pin To Net: NetName=NetC8_2 Pin=U1-23
+Added Pin To Net: NetName=NetC9_1 Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-41
+Added Pin To Net: NetName=NetC9_1 Pin=U1-42
+Added Pin To Net: NetName=NetC9_1 Pin=U1-54
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=NetC9_1 Pin=U1-71
+Added Pin To Net: NetName=GND Pin=U1-72
+Added Pin To Net: NetName=GND Pin=U1-83
+Added Pin To Net: NetName=NetC9_1 Pin=U1-84
+Added Pin To Net: NetName=NetC9_1 Pin=U1-96
+Added Pin To Net: NetName=GND Pin=U1-97
+Added Pin To Net: NetName=RTCK Pin=U1-100
+Added Class: Name=LED
+Added Member To Class: ClassName=ETH Member=Component P4 RJ45 Ethernet

@@ -1,0 +1,25 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~LP_LED_CUBE_8x8x8.PrjPcb|ReportField=ProjectFullPath~Y:\Desktop\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_PCB\ver_4.1.0\PCB_Board\LP_LED_CUBE_8x8x8.PrjPcb|ReportField=Title~Bill of Materials For Project [LP_LED_CUBE_8x8x8.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~153|ReportField=ReportTime~15:39:11|ReportField=ReportDate~14/03/15|ReportField=ReportDateTime~14/03/15 15:39:11|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Title~LED Cube 8x8x8|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~14/03/15|ReportField=CurrentTime~15:39:08|ReportField=Date~|ReportField=DocumentFullPathAndName~Y:\Desktop\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_PCB\ver_4.1.0\PCB_Board\LP_LED_CUBE_8x8x8.SchDoc|ReportField=DocumentName~LP_LED_CUBE_8x8x8.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~12/12/14|ReportField=Organization~|ReportField=ProjectName~LP_LED_CUBE_8x8x8.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=DataSourceFileName~LP_LED_CUBE_8x8x8.PrjPcb|ReportField=DataSourceFullPath~Y:\Desktop\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_PCB\ver_4.1.0\PCB_Board\LP_LED_CUBE_8x8x8.PrjPcb
+100nF|Capacitor|C1, C2, C3, C4, C5, C6, C7, C8, C9, C11, C13, C15, C17, C19, C21, C23, C26, C27, C29|19
+1nF|Capacitor|C10, C12, C14, C16, C18, C20, C22, C24|8
+220uF|Capacitor|C25, C28|2
+0.47uF|Capacitor|C30|1
+Sk54|Schottky Diode|D1|1
+POWER LED|Typical INFRARED GaAs LED|D2|1
+100uH|Magnetic-Core Inductor|L1|1
+Header 8X2|Header, 8-Pin, Dual row|P1, P2, P4, P5|4
+LED Connector|Header, 8-Pin, Dual row|P3|1
+LED Layers Connector|Header, 4-Pin, Dual row|P6|1
+LED Layers Output Connector|Header, 4-Pin, Dual row|P7|1
+Power to controller|Header, 2-Pin|P8|1
+100R|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41, R42, R43, R44, R45, R46, R47, R48, R49, R50, R51, R52, R53, R54, R55, R56, R57, R58, R59, R60, R61, R62, R63, R64|64
+10k|Resistor|R65, R66, R69, R70, R71, R72, R75, R76, R77, R78, R81, R82, R83, R84, R87, R88, R89|17
+0R|Resistor|R67, R68, R73, R74, R79, R80, R85, R86|8
+180k|Resistor|R90|1
+220k|Resistor|R91|1
+49.9k|Resistor|R92|1
+100k|Resistor|R93|1
+470R|Resistor|R94|1
+74HC574N|D Flip Flops|U1, U2, U3, U4, U5, U6, U7, U8|8
+SI3861BDV|4.5 - 20V 2.3A Load Switch|U9, U10, U11, U12, U13, U14, U15, U16|8
+TPS56528|Step-Down Converter 5A 4.5V-18V|U17|1
+Jumper|Jumper Wire|W1|1

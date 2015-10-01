@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LP_LED_CUBE_8x8x8.PrjPcb]
+   Generated File[LP_LED_CUBE_8x8x8.GTL]
+   Generated File[LP_LED_CUBE_8x8x8.GBL]
+   Generated File[LP_LED_CUBE_8x8x8.GPB]
+   Generated File[LP_LED_CUBE_8x8x8.GPT]
+   Generated File[LP_LED_CUBE_8x8x8.GTO]
+   Generated File[LP_LED_CUBE_8x8x8.GTP]
+   Generated File[LP_LED_CUBE_8x8x8.GTS]
+   Generated File[LP_LED_CUBE_8x8x8.GBS]
+   Generated File[LP_LED_CUBE_8x8x8.GBP]
+   Generated File[LP_LED_CUBE_8x8x8.GBO]
+   Generated File[LP_LED_CUBE_8x8x8.GM1]
+   Generated File[LP_LED_CUBE_8x8x8.GM13]
+   Generated File[LP_LED_CUBE_8x8x8.GM15]
+   Generated File[LP_LED_CUBE_8x8x8.GKO]
+   Generated File[LP_LED_CUBE_8x8x8.RUL]
+   Generated File[LP_LED_CUBE_8x8x8.EXTREP]
+   Generated File[LP_LED_CUBE_8x8x8.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 18:01:28 On 01/11/14

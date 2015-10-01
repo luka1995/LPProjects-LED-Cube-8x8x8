@@ -1,0 +1,12 @@
+C:\Users\Dule\Desktop\Luka_Penger\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\LP_LED_CUBE_8x8x8\LP_LED_CUBE_8x8x8\bin\Debug\LP_LED_CUBE_8x8x8.exe.config
+C:\Users\Dule\Desktop\Luka_Penger\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\LP_LED_CUBE_8x8x8\LP_LED_CUBE_8x8x8\obj\Debug\LP_LED_CUBE_8x8x8.csprojResolveAssemblyReference.cache
+C:\Users\Dule\Desktop\Luka_Penger\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\LP_LED_CUBE_8x8x8\LP_LED_CUBE_8x8x8\obj\Debug\LP_LED_CUBE_8x8x8.Form1.resources
+C:\Users\Dule\Desktop\Luka_Penger\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\LP_LED_CUBE_8x8x8\LP_LED_CUBE_8x8x8\obj\Debug\LP_LED_CUBE_8x8x8.Properties.Resources.resources
+C:\Users\Dule\Desktop\Luka_Penger\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\LP_LED_CUBE_8x8x8\LP_LED_CUBE_8x8x8\obj\Debug\LP_LED_CUBE_8x8x8.csproj.GenerateResource.Cache
+C:\Users\Dule\Desktop\Luka_Penger\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\LP_LED_CUBE_8x8x8\LP_LED_CUBE_8x8x8\bin\Debug\LP_LED_CUBE_8x8x8.exe
+C:\Users\Dule\Desktop\Luka_Penger\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\LP_LED_CUBE_8x8x8\LP_LED_CUBE_8x8x8\bin\Debug\LP_LED_CUBE_8x8x8.pdb
+C:\Users\Dule\Desktop\Luka_Penger\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\LP_LED_CUBE_8x8x8\LP_LED_CUBE_8x8x8\obj\Debug\LP_LED_CUBE_8x8x8.exe
+C:\Users\Dule\Desktop\Luka_Penger\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL\LP_LED_CUBE_8x8x8\LP_LED_CUBE_8x8x8\obj\Debug\LP_LED_CUBE_8x8x8.pdb
+C:\Users\Dule\Desktop\Luka_Penger\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL_TESTNI_SW\LP_LED_CUBE_8x8x8\LP_LED_CUBE_8x8x8\bin\Debug\LP_LED_CUBE_8x8x8.exe.config
+C:\Users\Dule\Desktop\Luka_Penger\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL_TESTNI_SW\LP_LED_CUBE_8x8x8\LP_LED_CUBE_8x8x8\obj\Debug\LP_LED_CUBE_8x8x8.exe
+C:\Users\Dule\Desktop\Luka_Penger\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_VISUAL_TESTNI_SW\LP_LED_CUBE_8x8x8\LP_LED_CUBE_8x8x8\obj\Debug\LP_LED_CUBE_8x8x8.pdb

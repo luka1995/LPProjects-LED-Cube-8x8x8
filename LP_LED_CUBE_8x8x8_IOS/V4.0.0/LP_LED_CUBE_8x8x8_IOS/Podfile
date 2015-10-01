@@ -1,0 +1,13 @@
+platform :ios, '7.0'
+inhibit_all_warnings!
+
+pod 'CocoaAsyncSocket', '~> 7.3'
+pod 'Reachability', '~> 3.1'
+pod 'AFViewShaker', '~> 0.0.2'
+pod 'RMPickerViewController', '~> 1.1'
+pod 'NSData+Base64', '~> 1.0'
+pod 'RNFrostedSidebar', '~> 0.2.0'
+pod 'AFNetworking', '~> 2.4'
+pod 'NSJSONSerialization-NSNullRemoval', '~> 1.0'
+pod 'MCSwipeTableViewCell', '~> 2.1'
+pod 'CocoaHTTPServer', '~> 2.3'

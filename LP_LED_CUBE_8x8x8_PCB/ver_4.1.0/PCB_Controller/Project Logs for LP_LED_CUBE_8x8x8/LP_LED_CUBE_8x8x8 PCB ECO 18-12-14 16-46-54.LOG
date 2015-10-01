@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=S1-GND
+Removed Pin From Net: NetName=GND Pin=S1-GND
+Removed Pin From Net: NetName=GND Pin=U4-GND
+Removed Pin From Net: NetName=GND Pin=U4-GND
+Change Component Footprint: Designator=U6 Old Footprint=SOIC8 New Footprint=SOIC8_Narrow
+Change Component Comment : Designator=U1 Old Comment=LPC1768FBD100 New Comment=LPC1769FBD100
+Added Member To Class: ClassName=POWER Member=Component C21 10n
+Added Room: Name=CPU
+Added Room: Name=ETH
+Added Room: Name=LED
+Added Room: Name=POWER

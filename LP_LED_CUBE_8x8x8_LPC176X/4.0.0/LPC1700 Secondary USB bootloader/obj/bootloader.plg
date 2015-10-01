@@ -1,0 +1,13 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Dule\Desktop\Luka_Penger\lp-led-cube-8x8x8-project\LPC1700 Secondary USB bootloader\bootloader.uvproj
+Project File Date:  06/09/2014
+
+<h2>Output:</h2>
+Load "C:\\Users\\Dule\\Desktop\\Luka_Penger\\lp-led-cube-8x8x8-project\\LPC1700 Secondary USB bootloader\\obj\\bootloader.axf" 
+Full Chip Erase Done.
+Programming Done.
+Verify OK.

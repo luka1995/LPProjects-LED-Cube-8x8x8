@@ -1,0 +1,212 @@
+Dependencies for Project 'Http_upload', Target 'LP LED CUBE 8x8x8': (DO NOT MODIFY !)
+F (.\Web\Web.inp)(0x548A95AE)()
+F (.\Web\index.cgi)(0x5485E402)()
+F (.\Web\javascript.js)(0x5485E402)()
+F (.\Web\style.css)(0x5485E402)()
+F (.\MAIN.c)(0x54CCE4E2)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C827C4)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+I (C:\Keil\ARM\RV31\INC\Net_Config.h)(0x532C6388)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x532C648C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C648C)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C827C4)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C827C4)
+I (.\Libraries\DELAY.h)(0x5485E402)
+I (C:\Keil\ARM\RV31\INC\rl_usb.h)(0x532C6388)
+I (C:\Keil\ARM\RL\USB\INC\usb.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usb_def.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usb_adc.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usb_cdc.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usb_hid.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usb_msc.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_adc.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_cdc.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_hid.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_msc.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usbd_core_cls.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usbd_desc.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usbd_event.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usbd_adc.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usbd_cdc_acm.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usbd_hid.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usbd_msc.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usbd_cls.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usbd_hw.h)(0x532C638A)
+I (C:\Keil\ARM\RL\USB\INC\usbh.h)(0x532C638A)
+I (.\Libraries\LED_CUBE_8x8x8.h)(0x5485E402)
+I (.\Libraries\HELP.h)(0x5485E402)
+I (.\Libraries\type.h)(0x5485E402)
+I (C:\Keil\ARM\ARMCC\include\assert.h)(0x51C827C4)
+I (.\Libraries\UART.h)(0x5485E402)
+I (..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP\TCP_USERS.h)(0x5485E402)
+I (..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP\SETTINGS.h)(0x5485E402)
+I (..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP\PROTOCOL.h)(0x5485E402)
+I (C:\Keil\ARM\ARMCC\include\math.h)(0x51C827C4)
+F (.\HTTP_CGI.c)(0x548A9602)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\http_cgi.o --omf_browse .\obj\http_cgi.crf --depend .\obj\http_cgi.d)
+I (C:\Keil\ARM\RV31\INC\Net_Config.h)(0x532C6388)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C827C4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C827C4)
+I (C:\Keil\ARM\ARMCC\include\ctype.h)(0x51C827C4)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C827C4)
+I (.\Libraries\HTML.h)(0x5485E402)
+I (.\Libraries\HELP.h)(0x5485E402)
+I (.\Libraries\type.h)(0x5485E402)
+I (C:\Keil\ARM\ARMCC\include\assert.h)(0x51C827C4)
+I (..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP\SETTINGS.h)(0x5485E402)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x532C648C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C648C)
+I (.\Libraries\LED_CUBE_8x8x8.h)(0x5485E402)
+I (.\Libraries\DELAY.h)(0x5485E402)
+F (.\Web\WEB.C)(0x55314ACB)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\web.o --omf_browse .\obj\web.crf --depend .\obj\web.d)
+I (C:\Keil\ARM\RV31\INC\Net_Config.h)(0x532C6388)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+F (.\FTP_uif.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\ftp_uif.o --omf_browse .\obj\ftp_uif.crf --depend .\obj\ftp_uif.d)
+I (C:\Keil\ARM\RV31\INC\Net_Config.h)(0x532C6388)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+I (C:\Keil\ARM\RV31\INC\File_Config.h)(0x532C6388)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C827C4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C827C4)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C827C4)
+F (.\HTTP_err.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\http_err.o --omf_browse .\obj\http_err.crf --depend .\obj\http_err.d)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+F (.\HTTP_uif.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\http_uif.o --omf_browse .\obj\http_uif.crf --depend .\obj\http_uif.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C827C4)
+I (C:\Keil\ARM\RV31\INC\Net_Config.h)(0x532C6388)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+F (.\Libraries\LED_CUBE_8x8x8.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\led_cube_8x8x8.o --omf_browse .\obj\led_cube_8x8x8.crf --depend .\obj\led_cube_8x8x8.d)
+I (Libraries\LED_CUBE_8x8x8.h)(0x5485E402)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x532C648C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C648C)
+I (.\Libraries\HELP.h)(0x5485E402)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C827C4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C827C4)
+I (.\Libraries\type.h)(0x5485E402)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C827C4)
+I (C:\Keil\ARM\ARMCC\include\assert.h)(0x51C827C4)
+I (.\Libraries\DELAY.h)(0x5485E402)
+F (.\TCP_USERS.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\tcp_users.o --omf_browse .\obj\tcp_users.crf --depend .\obj\tcp_users.d)
+I (..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP\TCP_USERS.h)(0x5485E402)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x532C648C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C648C)
+I (.\Libraries\type.h)(0x5485E402)
+I (C:\Keil\ARM\ARMCC\include\String.h)(0x51C827C4)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+F (.\SETTINGS.c)(0x5488B2CF)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\settings.o --omf_browse .\obj\settings.crf --depend .\obj\settings.d)
+I (..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP\SETTINGS.h)(0x5485E402)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C827C4)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x532C648C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C648C)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C827C4)
+I (.\Libraries\type.h)(0x5485E402)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C827C4)
+I (C:\Keil\ARM\ARMCC\include\assert.h)(0x51C827C4)
+I (.\Libraries\HELP.h)(0x5485E402)
+F (.\PROTOCOL.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\protocol.o --omf_browse .\obj\protocol.crf --depend .\obj\protocol.d)
+I (PROTOCOL.h)(0x5485E402)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x532C648C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C648C)
+I (.\Libraries\type.h)(0x5485E402)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C827C4)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C827C4)
+F (.\Net_Config.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\net_config.o --omf_browse .\obj\net_config.crf --depend .\obj\net_config.d)
+I (C:\Keil\ARM\RV31\INC\Net_Config.h)(0x532C6388)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+I (C:\Keil\ARM\RV31\INC\Net_lib.c)(0x547CEBA7)
+F (.\File_Config.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\file_config.o --omf_browse .\obj\file_config.crf --depend .\obj\file_config.d)
+I (C:\Keil\ARM\RV31\INC\File_Config.h)(0x532C6388)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+I (C:\Keil\ARM\RV31\INC\File_lib.c)(0x532C6388)
+I (C:\Keil\ARM\ARMCC\include\absacc.h)(0x51C827C4)
+I (..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP\FS_SPI_FlashDev.h)(0x5485E402)
+F (.\startup_LPC17xx.s)(0x5485E402)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx--pd "NO_CRP SETA 1"--list .\lst\startup_lpc17xx.lst --xref -o .\obj\startup_lpc17xx.o --depend .\obj\startup_lpc17xx.d)
+F (.\FS_SPI_FlashPrg.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\fs_spi_flashprg.o --omf_browse .\obj\fs_spi_flashprg.crf --depend .\obj\fs_spi_flashprg.d)
+I (C:\Keil\ARM\RV31\INC\File_Config.h)(0x532C6388)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+F (.\Retarget.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\retarget.o --omf_browse .\obj\retarget.crf --depend .\obj\retarget.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C827C4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C827C4)
+I (C:\Keil\ARM\ARMCC\include\rt_sys.h)(0x51C827C4)
+I (C:\Keil\ARM\RV31\INC\File_Config.h)(0x532C6388)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+F (C:\Keil\ARM\RV31\LIB\TCP_CM3.lib)(0x532C674A)()
+F (C:\Keil\ARM\RV31\LIB\FS_CM3.lib)(0x532C673C)()
+F (.\Libraries\DELAY.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\delay.o --omf_browse .\obj\delay.crf --depend .\obj\delay.d)
+I (Libraries\DELAY.h)(0x5485E402)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x532C648C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C648C)
+F (.\Libraries\EMAC_DP83848.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\emac_dp83848.o --omf_browse .\obj\emac_dp83848.crf --depend .\obj\emac_dp83848.d)
+I (C:\Keil\ARM\RV31\INC\Net_Config.h)(0x532C6388)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+I (Libraries\EMAC_DP83848.h)(0x5485E402)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C648C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C648C)
+F (.\Libraries\HELP.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\help.o --omf_browse .\obj\help.crf --depend .\obj\help.d)
+I (.\Libraries\HELP.h)(0x5485E402)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C827C4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C827C4)
+I (.\Libraries\type.h)(0x5485E402)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C827C4)
+I (C:\Keil\ARM\ARMCC\include\assert.h)(0x51C827C4)
+F (.\Libraries\SPI_LPC17xx.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\spi_lpc17xx.o --omf_browse .\obj\spi_lpc17xx.crf --depend .\obj\spi_lpc17xx.d)
+I (C:\Keil\ARM\RV31\INC\File_Config.h)(0x532C6388)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C6388)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x532C648C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C648C)
+F (.\Libraries\system_LPC17xx.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\system_lpc17xx.o --omf_browse .\obj\system_lpc17xx.crf --depend .\obj\system_lpc17xx.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C648C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C648C)
+F (.\Libraries\UART.c)(0x5485E402)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_DEVELOP -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\uart.o --omf_browse .\obj\uart.crf --depend .\obj\uart.d)
+I (Libraries\UART.h)(0x5485E402)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C648C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C648C)
+I (Libraries\type.h)(0x5485E402)
+F (.\Abstract.txt)(0x5485E402)()

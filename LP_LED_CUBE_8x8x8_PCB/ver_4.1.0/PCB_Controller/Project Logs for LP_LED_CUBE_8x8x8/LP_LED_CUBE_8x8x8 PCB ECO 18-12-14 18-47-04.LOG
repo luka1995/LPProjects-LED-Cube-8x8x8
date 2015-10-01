@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=Y1 Old Footprint=Crystal 4.1x1.5 New Footprint=Crystal FC-135
+Change Component Comment : Designator=Y2 Old Comment=12MHz New Comment=12 MHz
+Change Component Comment : Designator=Y1 Old Comment=32.768KHz New Comment=32.768 kHz
+Added Room: Name=CPU
+Added Room: Name=ETH
+Added Room: Name=LED
+Added Room: Name=POWER

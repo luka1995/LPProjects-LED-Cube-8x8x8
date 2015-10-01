@@ -1,0 +1,9 @@
+c:\users\lukapenger\documents\visual studio 2013\Projects\LED_CUBE_TCP_TEST\LED_CUBE_TCP_TEST\bin\Debug\LED_CUBE_TCP_TEST.exe.config
+c:\users\lukapenger\documents\visual studio 2013\Projects\LED_CUBE_TCP_TEST\LED_CUBE_TCP_TEST\bin\Debug\LED_CUBE_TCP_TEST.exe
+c:\users\lukapenger\documents\visual studio 2013\Projects\LED_CUBE_TCP_TEST\LED_CUBE_TCP_TEST\bin\Debug\LED_CUBE_TCP_TEST.pdb
+c:\users\lukapenger\documents\visual studio 2013\Projects\LED_CUBE_TCP_TEST\LED_CUBE_TCP_TEST\obj\Debug\LED_CUBE_TCP_TEST.csprojResolveAssemblyReference.cache
+c:\users\lukapenger\documents\visual studio 2013\Projects\LED_CUBE_TCP_TEST\LED_CUBE_TCP_TEST\obj\Debug\LED_CUBE_TCP_TEST.Form1.resources
+c:\users\lukapenger\documents\visual studio 2013\Projects\LED_CUBE_TCP_TEST\LED_CUBE_TCP_TEST\obj\Debug\LED_CUBE_TCP_TEST.Properties.Resources.resources
+c:\users\lukapenger\documents\visual studio 2013\Projects\LED_CUBE_TCP_TEST\LED_CUBE_TCP_TEST\obj\Debug\LED_CUBE_TCP_TEST.csproj.GenerateResource.Cache
+c:\users\lukapenger\documents\visual studio 2013\Projects\LED_CUBE_TCP_TEST\LED_CUBE_TCP_TEST\obj\Debug\LED_CUBE_TCP_TEST.exe
+c:\users\lukapenger\documents\visual studio 2013\Projects\LED_CUBE_TCP_TEST\LED_CUBE_TCP_TEST\obj\Debug\LED_CUBE_TCP_TEST.pdb

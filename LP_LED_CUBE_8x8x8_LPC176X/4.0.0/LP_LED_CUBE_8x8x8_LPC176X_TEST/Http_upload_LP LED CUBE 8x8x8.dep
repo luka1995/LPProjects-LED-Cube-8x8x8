@@ -1,0 +1,126 @@
+Dependencies for Project 'Http_upload', Target 'LP LED CUBE 8x8x8': (DO NOT MODIFY !)
+F (.\MAIN.c)(0x547A1AFC)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_TEST -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C5578)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x532C567C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C5A32)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C5A32)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C5A32)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C567C)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (.\Libraries\LED_CUBE_8x8x8.h)(0x545CA0BF)
+I (.\Libraries\HELP.h)(0x5450991E)
+I (.\Libraries\type.h)(0x5450991E)
+I (C:\Keil\ARM\ARMCC\include\assert.h)(0x51C819B4)
+I (.\Libraries\DELAY.h)(0x545C8062)
+I (.\Libraries\LED_CUBE_8x8x8_Animations.h)(0x545CE765)
+I (.\Libraries\LED_CUBE_8x8x8_Translation.h)(0x545CC049)
+I (.\Libraries\LED_CUBE_8x8x8_Rotation.h)(0x545CCC39)
+I (C:\Keil\ARM\ARMCC\include\ctype.h)(0x51C819B4)
+I (.\Libraries\UART.h)(0x5450991E)
+F (.\Libraries\LED_CUBE_8x8x8.c)(0x547A1AF0)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_TEST -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\led_cube_8x8x8.o --omf_browse .\obj\led_cube_8x8x8.crf --depend .\obj\led_cube_8x8x8.d)
+I (Libraries\LED_CUBE_8x8x8.h)(0x545CA0BF)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x532C567C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C5A32)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C5A32)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C5A32)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C567C)
+I (.\Libraries\HELP.h)(0x5450991E)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C5578)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (.\Libraries\type.h)(0x5450991E)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\assert.h)(0x51C819B4)
+I (.\Libraries\DELAY.h)(0x545C8062)
+F (.\Libraries\LED_CUBE_8x8x8_Animations.c)(0x545CE765)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_TEST -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\led_cube_8x8x8_animations.o --omf_browse .\obj\led_cube_8x8x8_animations.crf --depend .\obj\led_cube_8x8x8_animations.d)
+I (Libraries\LED_CUBE_8x8x8_Animations.h)(0x545CE765)
+I (.\Libraries\LED_CUBE_8x8x8.h)(0x545CA0BF)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x532C567C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C5A32)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C5A32)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C5A32)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C567C)
+I (.\Libraries\HELP.h)(0x5450991E)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C5578)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (.\Libraries\type.h)(0x5450991E)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\assert.h)(0x51C819B4)
+I (.\Libraries\DELAY.h)(0x545C8062)
+I (.\Libraries\LED_CUBE_8x8x8_Translation.h)(0x545CC049)
+I (.\Libraries\LED_CUBE_8x8x8_Rotation.h)(0x545CCC39)
+I (C:\Keil\ARM\ARMCC\include\ctype.h)(0x51C819B4)
+F (.\Libraries\LED_CUBE_8x8x8_Translation.c)(0x545CC0E1)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_TEST -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\led_cube_8x8x8_translation.o --omf_browse .\obj\led_cube_8x8x8_translation.crf --depend .\obj\led_cube_8x8x8_translation.d)
+I (Libraries\LED_CUBE_8x8x8_Translation.h)(0x545CC049)
+I (.\Libraries\LED_CUBE_8x8x8.h)(0x545CA0BF)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x532C567C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C5A32)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C5A32)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C5A32)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C567C)
+I (.\Libraries\HELP.h)(0x5450991E)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C5578)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (.\Libraries\type.h)(0x5450991E)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\assert.h)(0x51C819B4)
+I (.\Libraries\DELAY.h)(0x545C8062)
+F (.\Libraries\LED_CUBE_8x8x8_Rotation.c)(0x545CCCFE)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_TEST -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\led_cube_8x8x8_rotation.o --omf_browse .\obj\led_cube_8x8x8_rotation.crf --depend .\obj\led_cube_8x8x8_rotation.d)
+I (Libraries\LED_CUBE_8x8x8_Rotation.h)(0x545CCC39)
+I (.\Libraries\LED_CUBE_8x8x8.h)(0x545CA0BF)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x532C567C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C5A32)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C5A32)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C5A32)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C567C)
+I (.\Libraries\HELP.h)(0x5450991E)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C5578)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (.\Libraries\type.h)(0x5450991E)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\assert.h)(0x51C819B4)
+I (.\Libraries\DELAY.h)(0x545C8062)
+F (.\startup_LPC17xx.s)(0x5450991E)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx--pd "NO_CRP SETA 1"--list .\lst\startup_lpc17xx.lst --xref -o .\obj\startup_lpc17xx.o --depend .\obj\startup_lpc17xx.d)
+F (.\Libraries\HELP.c)(0x5450991E)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_TEST -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\help.o --omf_browse .\obj\help.crf --depend .\obj\help.d)
+I (.\Libraries\HELP.h)(0x5450991E)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C5578)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (.\Libraries\type.h)(0x5450991E)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\assert.h)(0x51C819B4)
+F (.\Libraries\system_LPC17xx.c)(0x5450991E)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_TEST -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\system_lpc17xx.o --omf_browse .\obj\system_lpc17xx.crf --depend .\obj\system_lpc17xx.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C567C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C5A32)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C5A32)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C5A32)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C567C)
+F (.\Libraries\UART.c)(0x5450991E)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_TEST -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\uart.o --omf_browse .\obj\uart.crf --depend .\obj\uart.d)
+I (Libraries\UART.h)(0x5450991E)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C567C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C5A32)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C5A32)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C5A32)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C567C)
+I (Libraries\type.h)(0x5450991E)
+F (.\Libraries\DELAY.c)(0x545C809F)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork -I..\LP_LED_CUBE_8x8x8_LPC176X_TEST -I.\Libraries-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\obj\delay.o --omf_browse .\obj\delay.crf --depend .\obj\delay.d)
+I (Libraries\DELAY.h)(0x545C8062)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x532C567C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C5A32)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C5A32)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C5A32)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C567C)
+F (.\Abstract.txt)(0x5454C036)()

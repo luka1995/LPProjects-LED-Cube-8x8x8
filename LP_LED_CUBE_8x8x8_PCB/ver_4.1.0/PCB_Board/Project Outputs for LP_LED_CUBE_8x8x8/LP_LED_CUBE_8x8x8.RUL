@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: Y:\Desktop\lp-led-cube-8x8x8-project\LP_LED_CUBE_8x8x8_PCB\ver_4.1.0\PCB_Board\LP_LED_CUBE_8x8x8.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,4 @@
+directory.cgi, index.cgi, network.cgi, admins.cgi, javascript.js,
+status_led_blue.png, status_led_green.png, status_led_red.png,
+status_led_yellow.png, style.css, time.cgi, users.cgi
+to Web.c nopr root(Web)

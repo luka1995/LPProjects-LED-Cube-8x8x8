@@ -1,0 +1,11 @@
+.\obj\tcp_users.o: TCP_USERS.c
+.\obj\tcp_users.o: ..\LP_LED_CUBE_8x8x8_LPC176X\TCP_USERS.h
+.\obj\tcp_users.o: C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H
+.\obj\tcp_users.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\obj\tcp_users.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\tcp_users.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\tcp_users.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\tcp_users.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\obj\tcp_users.o: .\Libraries\type.h
+.\obj\tcp_users.o: C:\Keil\ARM\ARMCC\bin\..\include\String.h
+.\obj\tcp_users.o: C:\Keil\ARM\RV31\INC\RTL.h

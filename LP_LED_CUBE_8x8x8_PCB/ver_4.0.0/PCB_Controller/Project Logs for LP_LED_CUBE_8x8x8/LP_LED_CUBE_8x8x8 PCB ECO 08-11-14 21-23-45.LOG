@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=LAYER3 Pin=U1-53
+Change Component Comment : Designator=R20 Old Comment=50R New Comment=49R9 1%
+Change Component Comment : Designator=R21 Old Comment=50R New Comment=49R9 1%
+Change Component Comment : Designator=R22 Old Comment=50R New Comment=49R9 1%
+Change Component Comment : Designator=R23 Old Comment=50R New Comment=49R9 1%
+Change Component Comment : Designator=R19 Old Comment=75R New Comment=75R 1%
+Change Component Comment : Designator=R24 Old Comment=75R New Comment=75R 1%
+Change Component Comment : Designator=R27 Old Comment=75R New Comment=75R 1%
+Change Component Comment : Designator=R28 Old Comment=75R New Comment=75R 1%
+Change Component Comment : Designator=C20 Old Comment=100n New Comment=1uF
+Added Pin To Net: NetName=LAYER3 Pin=U1-49

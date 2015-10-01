@@ -1,0 +1,7 @@
+platform :ios, '7.0'
+inhibit_all_warnings!
+
+pod 'CocoaAsyncSocket', '~> 7.3'
+pod 'Reachability', '~> 3.1'
+pod 'MBProgressHUD', '~> 0.8'
+pod 'RMPickerViewController', '~> 1.1'

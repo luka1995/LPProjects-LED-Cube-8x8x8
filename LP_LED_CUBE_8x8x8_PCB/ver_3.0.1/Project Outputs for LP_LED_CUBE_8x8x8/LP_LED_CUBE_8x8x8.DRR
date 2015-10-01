@@ -1,0 +1,32 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: LP_LED_CUBE_8x8x8.PcbDoc   17.6.2014  17:10:41
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LP_LED_CUBE_8x8x8.TXT
+EIA File   : LP_LED_CUBE_8x8x8.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.254mm (10mil)          Round          59               359.28 mm (14.14 Inch)
+T2        0.381mm (15mil)          Round          73               504.55 mm (19.86 Inch)
+T3        0.508mm (20mil)          Round          14               205.08 mm (8.07 Inch)
+T4        0.711mm (27.992mil)      Round          1                0.00 mm (0.00 Inch)
+T5        0.762mm (30mil)          Round          21               284.89 mm (11.22 Inch)
+T6        0.8mm (31.496mil)        Round          12               100.33 mm (3.95 Inch)
+T7        0.889mm (35mil)          Round          10               23.16 mm (0.91 Inch)
+T8        0.9mm (35.433mil)        Round          76               390.45 mm (15.37 Inch)
+T9        1.016mm (40mil)          Round          6                59.13 mm (2.33 Inch)
+T10       1.09mm (42.913mil)       Round          9                22.55 mm (0.89 Inch)
+T11       1.27mm (50mil)           Round          3                63.31 mm (2.49 Inch)
+T12       1.5mm (59.055mil)        Round          2                7.50 mm (0.30 Inch)
+T13       1.575mm (62.008mil)      Round          2                16.51 mm (0.65 Inch)
+T14       2.286mm (90mil)          Round          2                12.70 mm (0.50 Inch)
+T15       2.6mm (102.362mil)       Round          4                315.21 mm (12.41 Inch)
+T16       2.667mm (105mil)         Round          3                11.69 mm (0.46 Inch)
+T17       3.26mm (128.346mil)      Round          2                24.99 mm (0.98 Inch)
+T18       3.302mm (130mil)         Round          2                11.43 mm (0.45 Inch)
+---------------------------------------------------------------------------
+Totals                                            301              2412.76 mm (94.99 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,15 @@
+--cpu Cortex-M3
+".\obj\main.o"
+".\obj\led_cube_8x8x8.o"
+".\obj\led_cube_8x8x8_animations.o"
+".\obj\led_cube_8x8x8_translation.o"
+".\obj\led_cube_8x8x8_rotation.o"
+".\obj\startup_lpc17xx.o"
+".\obj\help.o"
+".\obj\system_lpc17xx.o"
+".\obj\uart.o"
+".\obj\delay.o"
+--strict --scatter ".\Obj\LP_LED_CUBE_8x8x8.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Lst\LP_LED_CUBE_8x8x8.map" -o .\Obj\LP_LED_CUBE_8x8x8.axf

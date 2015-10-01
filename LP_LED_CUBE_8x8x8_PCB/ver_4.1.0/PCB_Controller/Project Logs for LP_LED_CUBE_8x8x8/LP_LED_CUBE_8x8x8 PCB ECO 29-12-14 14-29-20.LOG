@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P2 Old Footprint=JTAG Connector ULINK New Footprint=SMT IDC Header 2X5 10 PIN 1.27mm
+Change Component Footprint: Designator=Y3 Old Footprint=XTAL ACT9200 New Footprint=XTAL ACT9200 5x7mm
+Change Physical Footprint: Designator=P1 Old Footprint=DSUB1.385-2H9 New Footprint=DSUB1.385-2H9

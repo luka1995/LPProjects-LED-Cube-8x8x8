@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DelayUnitsMultiplierUnits</key>
+	<array>
+		<string>ms</string>
+		<string>ms</string>
+		<string>ms</string>
+		<string>s</string>
+	</array>
+	<key>DelayUnitsMultiplierValues</key>
+	<array>
+		<integer>1</integer>
+		<integer>10</integer>
+		<integer>100</integer>
+		<integer>1000</integer>
+	</array>
+	<key>DelayUnitsMultiplierText</key>
+	<array>
+		<integer>1</integer>
+		<integer>10</integer>
+		<integer>100</integer>
+		<integer>1</integer>
+	</array>
+	<key>DelayUnitsButton</key>
+	<array>
+		<string>1 ms</string>
+		<string>10 ms</string>
+		<string>100 ms</string>
+		<string>1 s</string>
+	</array>
+	<key>DelayUnitActionSheetTitle</key>
+	<string>Select delay unit</string>
+	<key>TableViewSectionEffectNameTitle</key>
+	<string>Effect Name</string>
+	<key>TableViewSectionDelayTitle</key>
+	<string>Delay</string>
+	<key>TableViewSectionFileSizeTitle</key>
+	<string>File Size</string>
+	<key>TableViewSectionAnimationNameTitle</key>
+	<string>Animation Name</string>
+	<key>TableViewSectionEffectsCountTitle</key>
+	<string>Count</string>
+	<key>ActionSheetCancelButton</key>
+	<string>Cancel</string>
+	<key>ActionSheetConnectButton</key>
+	<string>Connect</string>
+	<key>ActionSheetDeleteButton</key>
+	<string>Delete</string>
+	<key>ActionSheetUploadAnimationButton</key>
+	<string>Upload</string>
+	<key>ActionSheetAppendAnimationButton</key>
+	<string>Append</string>
+	<key>ActionSheetShareAnimationButton</key>
+	<string>Share</string>
+	<key>ActionSheetEditButton</key>
+	<string>Edit</string>
+	<key>ActionSheetCopyButton</key>
+	<string>Copy</string>
+	<key>ActionSheetNewEffectTitle</key>
+	<string>Select animation function</string>
+	<key>ActionSheetNewEffectTitles</key>
+	<array>
+		<string>Append saved effect</string>
+		<string>Custom</string>
+		<string>Front Text</string>
+		<string>Move Belt Left Text</string>
+		<string>Waves</string>
+		<string>Cubes 4</string>
+	</array>
+	<key>AnimationEmptyToastText</key>
+	<string>Animation is empty</string>
+	<key>CanNotConnectToHostToastText</key>
+	<string>Can not connect to the host</string>
+	<key>AnimationSavedToastText</key>
+	<string>Animation saved</string>
+	<key>AlertViewCancelButton</key>
+	<string>Cancel</string>
+	<key>AlertViewCloseButton</key>
+	<string>Close</string>
+	<key>AlertViewClearButton</key>
+	<string>Clear</string>
+	<key>AlertViewDeleteButton</key>
+	<string>Delete</string>
+	<key>AlertViewClearListAnimationsTitle</key>
+	<string>Clear List</string>
+	<key>AlertViewClearListAnimationsMessage</key>
+	<string>Are you sure you want to clear list?</string>
+	<key>AnimationsViewTitle</key>
+	<string>Animations</string>
+	<key>AlertViewNewAnimationTitle</key>
+	<string>New Animation</string>
+	<key>AlertViewNextButton</key>
+	<string>Next</string>
+	<key>AlertViewSaveButton</key>
+	<string>Save</string>
+	<key>AlertViewNewAnimationTextFieldPlaceholder</key>
+	<string>Enter animation name</string>
+	<key>AlertViewRenameAnimationTitle</key>
+	<string>Rename animation</string>
+	<key>AlertViewRenameAnimationTextFieldPlaceholder</key>
+	<string>Enter new animation name</string>
+	<key>ActionSheetDeleteAnimationButton</key>
+	<string>Delete</string>
+	<key>ActionSheetEditAnimationButton</key>
+	<string>Edit</string>
+	<key>ActionSheetRenameAnimationButton</key>
+	<string>Rename</string>
+	<key>ActionSheetStartAnimationButton</key>
+	<string>Start</string>
+	<key>ActionSheetSaveAnimationToPhoneButton</key>
+	<string>Save To Phone</string>
+	<key>AlertViewDeleteAnimationWarningTitle</key>
+	<string>Warning</string>
+	<key>AlertViewDeleteAnimationWarningMessage</key>
+	<string>Are you sure you want to delete animation?</string>
+	<key>AnimationListLoadedToastText</key>
+	<string>List loaded</string>
+	<key>AnimationAlreadyExistsToastText</key>
+	<string>Animation already exists</string>
+	<key>AnimationDeletionSuccessfulToastText</key>
+	<string>Deletion successful</string>
+	<key>AnimationDeletionFailedToastText</key>
+	<string>Deletion failed</string>
+	<key>ScanDevicesViewTitle</key>
+	<string>Devices</string>
+	<key>FirstRunAlertViewTitle</key>
+	<string>LPProjects LED Cube 8x8x8</string>
+	<key>FirstRunAlertViewMessage</key>
+	<string>This application requires hardware to run. For more information visit http://led-cube.eu</string>
+	<key>ProgressHUDLoadingTitle</key>
+	<string>Loading...</string>
+	<key>ConnectToOtherDeviceButtonTitle</key>
+	<string>Connect to other Device</string>
+	<key>StopAnimationButtonTitle</key>
+	<string>Stop Animation</string>
+	<key>AnimationUploadedToastText</key>
+	<string>Animation uploaded</string>
+	<key>NewCustomEffectViewTitle</key>
+	<string>New Effect</string>
+	<key>SavedAnimationsViewTitle</key>
+	<string>Saved Animations</string>
+	<key>EditCustomEffectViewTitle</key>
+	<string>Edit Effect</string>
+	<key>NewTextEffectViewTitle</key>
+	<string>New Effect</string>
+	<key>NewDefaultEffectViewTitle</key>
+	<string>New Effect</string>
+	<key>TextEffectTextFieldEmptyToastText</key>
+	<string>You need to enter text</string>
+	<key>NameEffectTextFieldEmptyToastText</key>
+	<string>You need to enter name</string>
+	<key>EffectNameLabelText</key>
+	<string>Name:</string>
+	<key>EffectColumnsLabelText</key>
+	<string>Columns (1 - 64):</string>
+	<key>EffectLayersLabelText</key>
+	<string>Layers (1 - 8):</string>
+	<key>NoInternetConnectionError</key>
+	<dict>
+		<key>Title</key>
+		<string>No Internet Connection</string>
+		<key>Description</key>
+		<string>You require an internet connection via WiFi or cellular network for location finding to work.</string>
+		<key>CancelButton</key>
+		<string>Cancel</string>
+	</dict>
+	<key>EffectDelayLabelText</key>
+	<string>Delay:</string>
+	<key>EffectNameTextFieldPlaceholder</key>
+	<string>Enter effect name</string>
+	<key>EffectTextLabelText</key>
+	<string>Text:</string>
+	<key>EffectRepeatsLabelText</key>
+	<string>Repeats:</string>
+	<key>EffectTextTextFieldPlaceholder</key>
+	<string>Enter text</string>
+	<key>Preview3DTitle</key>
+	<string>3D Preview</string>
+	<key>Preview3DStartAnimationButtonTitle</key>
+	<string>Start</string>
+	<key>Preview3DStopAnimationButtonTitle</key>
+	<string>Stop</string>
+	<key>Preview3DRotationHomeButtonTItle</key>
+	<string>Reset position</string>
+	<key>Preview3DLoadingTitle</key>
+	<string>Loading 3D object</string>
+	<key>SettingsTitle</key>
+	<string>Settings</string>
+	<key>ActionSheetAnimationsListButton</key>
+	<string>Animations</string>
+	<key>ActionSheetDeviceSettingsButton</key>
+	<string>Device Settings</string>
+	<key>SettingsNetworkHeaderTitle</key>
+	<string>Network</string>
+	<key>SettingsGeneralHeaderTitle</key>
+	<string>General</string>
+	<key>SettingsDeviceNameLabelTitle</key>
+	<string>Device name</string>
+	<key>SettingsDeviceNameTextFieldPlaceholder</key>
+	<string>Enter name</string>
+	<key>SettingsIPAddressLabelTitle</key>
+	<string>IP Address</string>
+	<key>SettingsIPAddressTextFieldPlaceholder</key>
+	<string>Enter ip address</string>
+	<key>SettingsSubnetMaskLabelTitle</key>
+	<string>Subnet Mask</string>
+	<key>SettingsSubnetMaskTextFieldPlaceholder</key>
+	<string>Enter subnet mask</string>
+	<key>SettingsDefaultGatewayLabelTitle</key>
+	<string>Default Gateway</string>
+	<key>SettingsDefaultGatewayTextFieldPlaceholder</key>
+	<string>Enter default gateway</string>
+	<key>SettingsPriDNSAddressLabelTitle</key>
+	<string>Primary DNS</string>
+	<key>SettingsSecDNSAddressLabelTitle</key>
+	<string>Secondary DNS</string>
+	<key>SettingsPriDNSAddressTextFieldPlaceholder</key>
+	<string>Enter address</string>
+	<key>SettingsSecDNSAddressTextFieldPlaceholder</key>
+	<string>Enter address</string>
+	<key>SettingsInfoHeaderTitle</key>
+	<string>Device Info</string>
+	<key>SettingsFirmwareVersionLabelTitle</key>
+	<string>Firmware Version</string>
+	<key>SettingsMACAddressLabelTitle</key>
+	<string>MAC Address</string>
+	<key>LoadingDeviceSettingsProgressHUDTitle</key>
+	<string>Loading</string>
+	<key>SettingsDHCPLabelTitle</key>
+	<string>DHCP</string>
+	<key>SettingsEnterCorrectDataToastText</key>
+	<string>Enter the correct information</string>
+	<key>SettingsSavedToastText</key>
+	<string>Settings saved</string>
+	<key>StartWEBServerButtonTitle</key>
+	<string>Start WEB Server</string>
+	<key>StopWEBServerButtonTitle</key>
+	<string>Stop WEB Server</string>
+	<key>ErrorStartingWEBServer</key>
+	<string>Error starting WEB Server</string>
+	<key>WEBServerClosedAlertView</key>
+	<string>WEB Server closed</string>
+	<key>WEBServer</key>
+	<dict>
+		<key>Title</key>
+		<string>Animations</string>
+		<key>FileCountHeader</key>
+		<string>Nr.</string>
+		<key>FileNameHeader</key>
+		<string>Animation name</string>
+		<key>FileSizeHeader</key>
+		<string>File size</string>
+		<key>FileEffectsCountHeader</key>
+		<string>Count</string>
+		<key>FileDeleteHeader</key>
+		<string>Delete</string>
+		<key>UploadFileHeader</key>
+		<string>Upload Animation File</string>
+		<key>UploadFileButton</key>
+		<string>Send</string>
+		<key>FileDeleteButton</key>
+		<string>Delete</string>
+		<key>Copyright</key>
+		<string>Copyright &amp;#169; LPProjects</string>
+	</dict>
+</dict>
+</plist>

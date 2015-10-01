@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+".\obj\main.o"
+".\obj\http_cgi.o"
+".\obj\web.o"
+".\obj\ftp_uif.o"
+".\obj\http_err.o"
+".\obj\http_uif.o"
+".\obj\led_cube_8x8x8.o"
+".\obj\tcp_users.o"
+".\obj\settings.o"
+".\obj\protocol.o"
+".\obj\net_config.o"
+".\obj\file_config.o"
+".\obj\startup_lpc17xx.o"
+".\obj\fs_spi_flashprg.o"
+".\obj\retarget.o"
+"C:\Keil\ARM\RV31\LIB\TCP_CM3.lib"
+"C:\Keil\ARM\RV31\LIB\FS_CM3.lib"
+".\obj\delay.o"
+".\obj\emac_dp83848.o"
+".\obj\help.o"
+".\obj\spi_lpc17xx.o"
+".\obj\system_lpc17xx.o"
+".\obj\uart.o"
+--strict --scatter ".\Obj\LP_LED_CUBE_8x8x8.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Lst\LP_LED_CUBE_8x8x8.map" -o .\Obj\LP_LED_CUBE_8x8x8.axf

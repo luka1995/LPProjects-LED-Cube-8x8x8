@@ -1,0 +1,33 @@
+LPC1700 USB Bootloader
+==================================================================
+Changes in this version:
+IAP clock parameter is change to SystemFrequency/1000. This is required to
+ensure correct flash program and erase time
+
+==================================================================
+Hardware configuration/requirements:
+-	Ensure that the jumpers for the USB's D+ and D- set to "DEVICE".
+-	A USB cable "Type B" to power the board and to access the USB bootloader.
+
+The secondary USB bootloader will check for:
+	1.	CRP3 code write protection
+	2.	Existing user code already programmed in flash (default address 0x2000)
+	3.	a "LOW" voltage level on the Entry pin (default P1.20)
+
+If user code is present and CRP 3 is enabled the USB bootloader will
+automatically execute the user code.
+
+If user code is present and CRP 3 is not enabled and the entry pin is:
+	FALSE (HIGH) it will also automatically execute the user code.
+	TRUE  (LOW) it will enter the USB bootloader.
+
+The default user code entry point:	FLASH sector 2 (0x2000)
+The default entry pin:	P1.20 requireing a LOW voltage level
+
+Once the bootloader has been loaded:
+	Open the new MSC drive showing in "My Computer" (Windows workstation)
+	Delete the default "firmware.bin"
+	Copy the new binary (.bin) of the user code onto the drive
+		(See the sample RTCCAL project abstract)
+	Change the entry pin voltage level to HIGH
+	Reset the LPC1700
