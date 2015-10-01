@@ -5,7 +5,7 @@
 [![](image.png)](image.png)
 Created by Luka Penger<br/>
 http://lukapenger.eu
-<br/>
+<br/><br/>
 • Real Time controllable via network<br/>
 • Universal power supply 5-12V DC<br/>
 • Custom animations and effects<br/>
