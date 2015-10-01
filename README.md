@@ -5,6 +5,7 @@ Created by Luka Penger
 http://lukapenger.eu
 
 [!(image.png)](image.png)
+[![ScreenShots](image.png)](image.png)
 
 • Real Time controllable via network
 • Universal power supply 5-12V DC
