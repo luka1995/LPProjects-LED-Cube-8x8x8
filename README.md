@@ -1,8 +1,6 @@
 ## LPProjects LED Cube 8x8x8
 ### 3-Dimensional Display controllable with Smart Phone
 
-<br/>
-![https://github.com/luka1995/LPProjects-LED-Cube-8x8x8/blob/master/image.png](https://github.com/luka1995/LPProjects-LED-Cube-8x8x8/blob/master/image.png)
 Created by Luka Penger<br/>
 http://lukapenger.eu
 <br/><br/>
