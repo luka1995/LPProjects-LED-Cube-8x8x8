@@ -2,7 +2,7 @@
 ### 3-Dimensional Display controllable with Smart Phone
 
 <br/>
-![ScreenShot](image.png)
+![image.png](https://github.com/luka1995/LPProjects-LED-Cube-8x8x8/image.png)
 Created by Luka Penger<br/>
 http://lukapenger.eu
 <br/><br/>
