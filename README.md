@@ -2,7 +2,7 @@
 ### 3-Dimensional Display controllable with Smart Phone
 
 <br/>
-[![](image.png)](image.png)
+![ScreenShot](image.png)
 Created by Luka Penger<br/>
 http://lukapenger.eu
 <br/><br/>
