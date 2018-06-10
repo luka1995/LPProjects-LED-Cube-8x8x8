@@ -2,7 +2,7 @@
 ### 3-Dimensional Display controllable with Smart Phone
 
 Created by Luka Penger<br/>
-<br/><br/>
+<br/>
 • Real Time controllable via network<br/>
 • Universal power supply 5-12V DC<br/>
 • Custom animations and effects<br/>
